@@ -1,0 +1,1001 @@
+trans_date_trans_time,category,amt,state,city,gender,job,merchant,is_fraud
+2019-05-12 20:41:27,misc_pos,9.26,IL,Bonfield,F,Medical secretary,fraud_Halvorson Group,0
+2020-05-10 22:28:16,personal_care,9.6,MS,Heidelberg,M,"Exhibitions officer, museum/gallery","fraud_Lubowitz, Terry and Stracke",0
+2020-05-04 12:45:01,shopping_pos,4.08,NY,Hudson,M,Travel agency manager,"fraud_Nitzsche, Kessler and Wolff",0
+2019-01-08 08:22:54,shopping_pos,9.4,MN,Hawley,F,Naval architect,fraud_Barrows PLC,0
+2019-11-23 21:26:29,entertainment,8.59,NY,Breesport,F,Psychotherapist,fraud_Thiel-Thiel,0
+2019-12-19 22:02:51,food_dining,19.82,SD,Deadwood,M,Multimedia programmer,fraud_Kilback LLC,0
+2019-07-09 14:02:16,home,21.13,LA,Gretna,M,Biomedical scientist,fraud_Quitzon-Goyette,0
+2019-06-15 14:20:26,entertainment,9.02,TX,Sachse,M,Site engineer,"fraud_Runolfsdottir, Mueller and Hand",0
+2020-03-14 18:21:34,entertainment,114.56,TX,Leonard,F,Sub,fraud_Padberg-Rogahn,0
+2019-06-08 22:04:09,kids_pets,17.46,OR,Cascade Locks,F,Barrister,fraud_Schimmel-Olson,0
+2019-12-09 02:57:29,gas_transport,80.54,MD,Cecilton,M,Podiatrist,fraud_Harris Inc,0
+2019-10-19 23:52:50,home,123.46,TX,Ratcliff,F,"Engineer, production","fraud_Kling, Howe and Schneider",0
+2019-09-16 19:55:40,home,40.35,OH,Paulding,M,Secondary school teacher,"fraud_Prosacco, Kreiger and Kovacek",0
+2019-12-21 00:36:30,grocery_pos,123.33,NV,Ruth,M,Interpreter,fraud_McDermott-Weimann,0
+2019-02-14 13:51:33,shopping_pos,7.28,PA,Armagh,F,Early years teacher,"fraud_Quitzon, Green and Bashirian",0
+2019-06-03 13:14:40,food_dining,5.96,AR,Norman,F,Manufacturing engineer,fraud_Jakubowski Group,0
+2020-03-24 13:18:18,food_dining,68.18,ME,Kittery Point,M,Broadcast engineer,"fraud_Graham, Hegmann and Hammes",0
+2019-07-08 13:09:48,home,17.2,WI,Milwaukee,M,"Accountant, chartered public finance",fraud_Kutch-Ferry,0
+2019-01-21 02:51:19,shopping_pos,5.0,CA,Laguna Hills,F,Sales executive,fraud_Conroy Ltd,0
+2020-01-13 14:20:12,personal_care,30.1,PA,Emporium,M,Public affairs consultant,fraud_Crooks and Sons,0
+2019-05-30 15:13:49,home,14.41,IL,Lomax,F,Environmental consultant,"fraud_Crist, Jakubowski and Littel",0
+2019-02-28 10:00:21,gas_transport,70.45,MD,Tuscarora,M,"Production assistant, television","fraud_Reilly, Heaney and Cole",0
+2019-04-07 18:12:27,shopping_pos,6.85,TX,Thrall,F,Press sub,fraud_Kuhn LLC,0
+2020-03-01 01:52:13,grocery_pos,129.53,MS,Sontag,M,"Librarian, academic","fraud_Heller, Gutmann and Zieme",0
+2019-08-12 21:25:42,personal_care,92.14,TX,Sherman,F,Systems developer,fraud_Langworth LLC,0
+2019-12-17 06:48:59,gas_transport,55.53,WA,Orient,F,Special educational needs teacher,"fraud_Raynor, Feest and Miller",0
+2019-01-08 21:24:49,home,88.55,VA,Doe Hill,M,Dance movement psychotherapist,fraud_Kutch-Ferry,0
+2019-02-14 21:46:50,home,29.5,GA,Surrency,F,"Engineer, technical sales","fraud_Moore, Williamson and Emmerich",0
+2020-05-07 11:49:20,grocery_net,47.52,FL,Saint Petersburg,M,"Engineer, land",fraud_Gutmann Ltd,0
+2019-08-07 16:55:25,misc_pos,4.92,TX,Trenton,F,"Investment banker, operational",fraud_Herman Inc,0
+2019-09-08 01:15:37,shopping_net,4.57,ID,Malad City,M,Nature conservation officer,fraud_Cormier LLC,0
+2019-06-28 07:46:49,grocery_pos,70.39,AL,Grant,M,Curator,fraud_Kiehn-Emmerich,0
+2019-12-19 19:43:56,kids_pets,55.65,NH,Acworth,M,Naval architect,"fraud_Romaguera, Wehner and Tromp",0
+2019-06-24 22:00:36,travel,4215.99,MD,Corriganville,M,Energy engineer,"fraud_Kilback, Nitzsche and Leffler",0
+2019-04-22 18:20:50,kids_pets,11.61,MD,Whaleyville,F,Regulatory affairs officer,fraud_Schimmel-Olson,0
+2019-02-19 12:26:16,food_dining,60.87,NY,New York City,F,Herbalist,fraud_Jast and Sons,0
+2020-03-12 17:16:10,kids_pets,108.28,FL,West Palm Beach,F,Historic buildings inspector/conservation officer,fraud_Schaefer Ltd,0
+2020-06-12 07:53:34,gas_transport,86.92,KY,Elizabethtown,M,Surgeon,fraud_Luettgen PLC,0
+2020-05-31 18:52:08,personal_care,8.55,NM,Ruidoso,F,Licensed conveyancer,fraud_Auer LLC,0
+2019-01-13 22:25:36,personal_care,2.1,WI,Waupaca,F,"Engineer, civil (contracting)",fraud_Reichel LLC,0
+2019-01-20 22:09:15,travel,6.21,AL,Brantley,F,Exercise physiologist,fraud_Ankunding-Carroll,0
+2019-08-07 10:02:30,grocery_pos,97.28,WI,New Franken,M,Art therapist,"fraud_Huel, Hammes and Witting",0
+2019-10-03 05:34:24,misc_pos,1853.0,AK,Wales,M,"Administrator, education",fraud_McDermott-Rice,0
+2019-06-18 04:28:03,gas_transport,69.63,MA,Methuen,M,Market researcher,fraud_Emard Inc,0
+2020-06-16 17:23:03,travel,9.49,NY,Jefferson,M,Diagnostic radiographer,fraud_Lynch-Mohr,0
+2019-06-08 16:07:10,kids_pets,80.93,OH,Rosewood,F,Professor Emeritus,fraud_Hoppe-Parisian,0
+2019-02-19 04:56:08,gas_transport,74.23,WY,Riverton,M,"Lecturer, higher education",fraud_Kling Inc,0
+2019-10-25 01:20:20,shopping_net,96.79,OH,Beaverdam,M,Museum/gallery conservator,"fraud_Schmeler, Bashirian and Price",0
+2020-03-24 12:36:17,personal_care,7.0,OK,Oklahoma City,M,Advertising copywriter,fraud_Wilkinson LLC,0
+2019-12-18 13:34:13,health_fitness,67.05,CA,Fields Landing,F,"Scientist, audiological",fraud_Torphy-Kertzmann,0
+2019-09-26 12:27:22,kids_pets,43.44,MI,Cedar,M,"Social research officer, government",fraud_Breitenberg-Hermiston,0
+2019-07-22 14:42:40,misc_net,34.56,TX,San Antonio,M,Land,fraud_Ruecker Group,0
+2019-10-21 11:00:39,misc_pos,2.85,CO,Iliff,M,Community arts worker,fraud_Smith-Stokes,0
+2019-02-03 11:01:00,grocery_pos,192.68,CA,Newhall,F,Health physicist,fraud_Barton Inc,0
+2020-01-09 14:50:43,shopping_pos,7.28,TX,O Brien,F,Warden/ranger,fraud_Beier-Hyatt,0
+2019-09-15 10:55:53,gas_transport,62.84,WA,Tekoa,M,Clothing/textile technologist,fraud_Huels-Hahn,0
+2019-03-09 20:03:57,travel,7.11,OK,Tryon,M,"Psychotherapist, child",fraud_Treutel-King,0
+2019-07-08 19:52:46,home,9.45,ME,Nobleboro,F,Financial trader,"fraud_Crist, Jakubowski and Littel",0
+2019-08-24 20:06:46,kids_pets,48.34,PA,Cokeburg,M,Dealer,"fraud_Yost, Schamberger and Windler",0
+2020-04-12 21:42:58,health_fitness,13.66,NC,Grover,F,Toxicologist,fraud_Schumm PLC,0
+2020-05-08 15:47:35,travel,6.85,WV,Winfield,M,Exhibition designer,fraud_Boyer-Haley,0
+2019-12-24 23:59:49,entertainment,12.8,PA,Pittsburgh,M,"Scientist, marine",fraud_Abshire PLC,0
+2020-05-17 20:13:18,health_fitness,22.93,PA,Clarks Mills,F,Energy manager,"fraud_Conroy, Balistreri and Gorczany",0
+2019-09-16 03:41:24,gas_transport,70.4,MS,Moorhead,M,Chartered public finance accountant,fraud_Conroy-Cruickshank,0
+2019-08-11 12:59:54,shopping_net,3.87,WA,Burlington,F,Public house manager,fraud_Volkman-Predovic,0
+2019-06-20 07:28:19,misc_pos,12.2,WV,Moundsville,F,Physiotherapist,fraud_Towne LLC,0
+2019-05-17 08:07:18,gas_transport,80.56,WA,Conway,F,"Research officer, political party",fraud_Berge LLC,0
+2019-10-06 17:19:54,personal_care,74.36,WV,Henderson,F,Building services engineer,fraud_Nader-Maggio,0
+2020-02-07 13:57:03,travel,3.08,MD,Kensington,M,Operations geologist,"fraud_Hahn, Douglas and Schowalter",0
+2019-12-22 13:33:52,travel,9.57,MI,Livonia,M,Horticultural consultant,fraud_Turner LLC,0
+2020-02-18 12:57:19,home,14.99,ND,Michigan,F,"Producer, television/film/video",fraud_Gulgowski LLC,0
+2020-04-07 18:07:13,kids_pets,86.4,WY,Lagrange,F,Product/process development scientist,fraud_Hoppe-Parisian,0
+2019-09-23 21:37:25,entertainment,56.25,CA,Grenada,M,Systems analyst,fraud_Effertz LLC,0
+2019-07-01 17:03:41,travel,2.84,CA,Vinton,M,Education administrator,fraud_Kris-Kertzmann,0
+2019-02-12 05:58:32,food_dining,90.61,NC,Mooresville,M,Control and instrumentation engineer,"fraud_Kutch, Steuber and Gerhold",0
+2020-05-18 09:39:02,gas_transport,88.75,MO,Kansas City,F,Counsellor,fraud_Conroy-Cruickshank,0
+2019-12-23 22:45:08,home,29.71,GA,Springfield,M,"Therapist, occupational","fraud_Prosacco, Kreiger and Kovacek",0
+2020-02-06 13:56:05,personal_care,26.37,KS,Ozawkie,M,Theatre director,fraud_Bins-Howell,0
+2019-02-10 12:52:20,kids_pets,60.59,OH,Miamisburg,F,"Investment banker, corporate",fraud_Beer-Jast,0
+2019-01-04 02:35:47,entertainment,145.3,SC,West Columbia,F,Chemical engineer,fraud_Klein Group,0
+2019-02-10 12:35:16,misc_pos,1.75,WV,Winfield,M,Exhibition designer,fraud_Towne LLC,0
+2019-11-08 04:03:42,misc_net,3.64,CA,Laguna Hills,F,Sales executive,fraud_Corwin-Gorczany,0
+2019-02-05 15:02:50,entertainment,16.76,SC,Brunson,F,Social researcher,fraud_Douglas-White,0
+2019-11-29 23:48:49,shopping_pos,11.96,AR,Cherokee Village,F,Pharmacologist,"fraud_Douglas, Schneider and Turner",0
+2019-11-03 13:39:06,food_dining,54.66,MN,Orr,M,Horticultural therapist,fraud_Stiedemann Ltd,0
+2020-06-09 17:42:53,home,126.68,OR,Gardiner,F,"Engineer, maintenance",fraud_Renner Ltd,0
+2019-04-14 12:05:10,health_fitness,26.03,PA,Clarks Mills,F,Energy manager,"fraud_Hintz, Bauch and Smith",0
+2019-12-07 16:11:27,entertainment,32.51,CA,Grenada,M,Systems analyst,fraud_Kilback and Sons,0
+2019-10-27 22:10:33,home,60.2,TX,Lolita,M,Archaeologist,fraud_White and Sons,0
+2019-05-30 18:16:57,personal_care,45.63,TX,Hedley,F,Early years teacher,fraud_Nader-Maggio,0
+2019-06-09 10:51:16,gas_transport,50.63,MN,Emmons,M,Communications engineer,"fraud_Kutch, Hermiston and Farrell",0
+2019-11-03 14:24:55,food_dining,20.93,MO,Louisiana,M,"Teacher, early years/pre","fraud_Schneider, Hayes and Nikolaus",0
+2019-11-15 03:42:28,misc_pos,39.17,NY,Saint Bonaventure,M,Toxicologist,fraud_Halvorson Group,0
+2020-03-27 23:43:25,kids_pets,99.31,FL,Umatilla,F,Private music teacher,fraud_Lubowitz-Walter,0
+2019-08-01 11:05:35,gas_transport,59.68,IL,Dieterich,M,"Psychologist, clinical",fraud_Kutch LLC,0
+2020-06-15 07:54:45,shopping_pos,259.42,MI,Luzerne,M,General practice doctor,fraud_Beier-Hyatt,0
+2019-01-09 06:15:24,shopping_pos,9.01,OH,Kirby,F,Private music teacher,fraud_Beier-Hyatt,0
+2019-02-26 13:55:31,kids_pets,46.84,MI,Goodrich,F,Learning disability nurse,fraud_Gottlieb Group,0
+2019-03-18 00:13:38,grocery_pos,106.51,KS,Easton,M,Air broker,"fraud_Mosciski, Gislason and Mertz",0
+2019-04-04 22:51:32,health_fitness,1.04,CO,Kirk,M,Network engineer,"fraud_Conroy, Balistreri and Gorczany",0
+2020-01-04 16:55:49,home,35.59,TX,Keller,M,Probation officer,fraud_Berge-Ullrich,0
+2019-04-11 09:17:57,grocery_pos,207.52,AR,Walnut Ridge,F,"Engineer, control and instrumentation",fraud_Hudson-Ratke,0
+2020-05-05 14:34:13,kids_pets,37.42,TX,Notrees,F,Cytogeneticist,fraud_Brown Inc,0
+2020-02-23 21:15:22,travel,2.82,MD,Kensington,M,Operations geologist,fraud_Block-Hauck,0
+2020-06-13 10:08:16,shopping_net,2.39,TX,Cross Plains,M,Chief Operating Officer,"fraud_Baumbach, Feeney and Morar",0
+2019-09-15 03:05:34,grocery_pos,85.25,MN,Lamberton,M,Land/geomatics surveyor,fraud_Heidenreich PLC,0
+2019-10-06 16:54:18,shopping_net,8.98,PA,Beaver Falls,F,Podiatrist,"fraud_Heathcote, Yost and Kertzmann",0
+2019-11-23 01:18:37,gas_transport,74.95,KY,Cadiz,M,Commissioning editor,"fraud_Stroman, Hudson and Erdman",0
+2020-04-19 08:48:00,gas_transport,88.63,OK,Tulsa,F,Bookseller,fraud_Friesen-D'Amore,0
+2020-05-09 13:25:19,shopping_pos,5.56,MO,Centerview,F,Electronics engineer,"fraud_Watsica, Haag and Considine",0
+2019-07-30 06:11:55,gas_transport,67.94,TX,Lorenzo,M,Petroleum engineer,"fraud_Schaefer, McGlynn and Bosco",0
+2019-06-08 01:40:03,grocery_pos,114.92,UT,Altonah,F,"Sales professional, IT","fraud_Goldner, Kovacek and Abbott",0
+2019-04-05 18:44:57,entertainment,6.84,TN,Murfreesboro,M,"Journalist, newspaper",fraud_Johns Inc,0
+2019-04-14 11:11:23,gas_transport,98.75,MS,Jackson,M,"Horticulturist, commercial",fraud_Conroy-Cruickshank,0
+2019-06-03 15:19:39,home,25.89,OK,Edmond,M,Media buyer,fraud_Botsford PLC,0
+2020-06-21 07:45:35,grocery_pos,134.57,PA,Lawn,F,Special educational needs teacher,fraud_O'Keefe-Hudson,0
+2020-03-22 19:48:31,misc_pos,6.7,CO,Pueblo,M,Further education lecturer,fraud_Flatley Group,0
+2019-09-18 21:12:53,home,42.91,NY,Cottekill,F,Comptroller,fraud_Jakubowski Inc,0
+2019-10-13 09:03:35,shopping_net,97.46,WY,Fort Washakie,M,Freight forwarder,"fraud_Kihn, Abernathy and Douglas",0
+2019-03-11 13:14:09,shopping_net,9.87,TX,Hedley,F,Early years teacher,"fraud_Reichert, Shanahan and Hayes",0
+2019-08-02 21:14:06,personal_care,79.11,IL,Tower Hill,M,Radio broadcast assistant,"fraud_Lubowitz, Terry and Stracke",0
+2019-04-07 17:25:52,food_dining,32.68,GA,Surrency,F,"Engineer, technical sales",fraud_Volkman PLC,0
+2019-10-06 00:01:00,gas_transport,60.22,WI,Seneca,M,Quantity surveyor,"fraud_Robel, Cummerata and Prosacco",0
+2019-12-14 04:15:16,grocery_pos,72.8,FL,Tampa,F,Waste management officer,fraud_Kilback LLC,0
+2019-12-30 10:54:23,misc_pos,5.76,MA,Paxton,F,Accounting technician,fraud_Spencer-Runolfsson,0
+2019-11-18 06:51:59,grocery_net,53.97,TX,Sachse,M,Site engineer,fraud_Roob LLC,0
+2019-12-16 02:38:23,misc_pos,15.5,ND,Wilton,F,"Designer, ceramics/pottery",fraud_McDermott-Rice,0
+2019-06-30 17:15:32,shopping_net,2.13,KS,De Soto,F,Chief Executive Officer,fraud_Mohr-Bayer,0
+2019-05-16 07:58:37,shopping_pos,111.14,WY,Fort Washakie,M,Freight forwarder,"fraud_Quitzon, Green and Bashirian",0
+2019-08-02 19:51:22,shopping_pos,12.41,AR,Bauxite,F,"Scientist, audiological",fraud_Hudson-Grady,0
+2020-05-12 16:29:44,kids_pets,19.16,IN,Andrews,M,Retail banker,fraud_Bernier and Sons,0
+2019-12-29 13:14:56,shopping_pos,4.73,MI,Warren,M,"Doctor, hospital",fraud_Mayert Group,0
+2019-07-04 04:09:56,grocery_pos,125.8,AL,Sardis,M,Learning disability nurse,"fraud_Osinski, Ledner and Leuschke",0
+2020-06-03 16:40:31,health_fitness,9.03,MS,Pearlington,M,"Therapist, occupational",fraud_Torphy-Kertzmann,0
+2019-12-02 06:18:07,shopping_net,85.32,KS,Garfield,M,Equality and diversity officer,"fraud_Gottlieb, Considine and Schultz",0
+2019-07-18 23:22:14,health_fitness,80.78,KS,Easton,M,Air broker,"fraud_Torp, Muller and Borer",0
+2020-02-04 07:40:52,gas_transport,76.45,MO,Blairstown,F,Agricultural consultant,fraud_Mraz-Herzog,0
+2020-02-08 22:07:09,personal_care,68.97,ME,Nobleboro,F,Financial trader,fraud_Leffler-Goldner,0
+2019-08-03 08:14:54,shopping_net,23.65,NE,Brainard,M,Associate Professor,"fraud_Kuhic, Bins and Pfeffer",0
+2019-12-27 20:21:11,home,7.35,MA,Ashfield,M,"Production assistant, radio","fraud_Schiller, Blanda and Johnson",0
+2019-04-12 22:21:39,health_fitness,84.09,LA,Metairie,F,Advertising account planner,fraud_Graham and Sons,0
+2020-05-23 10:32:04,misc_pos,35.96,NC,Collettsville,M,Soil scientist,fraud_Flatley Group,0
+2020-03-11 14:49:03,food_dining,70.04,MO,Kissee Mills,M,"Engineer, agricultural",fraud_Bahringer-Streich,0
+2019-11-16 19:11:46,shopping_net,92.22,IN,Leo,M,Biomedical engineer,fraud_Hills-Witting,0
+2019-02-07 15:23:43,shopping_net,9.04,AL,Phenix City,F,Chemical engineer,"fraud_Kuhic, Bins and Pfeffer",0
+2020-06-18 00:13:04,grocery_pos,107.16,ND,Michigan,F,"Producer, television/film/video",fraud_Murray-Smitham,0
+2019-12-01 17:58:34,food_dining,26.06,KS,Burrton,F,Gaffer,fraud_Kuphal-Toy,0
+2019-08-22 07:23:42,misc_net,3.31,AR,Gregory,F,"Lecturer, further education","fraud_Kerluke, Considine and Macejkovic",0
+2020-04-09 18:03:04,food_dining,37.92,TX,Houston,F,"Copywriter, advertising",fraud_Schuppe-Schuppe,0
+2019-07-11 15:01:43,food_dining,147.76,NH,Belmont,M,"Scientist, research (medical)",fraud_Will Ltd,0
+2019-12-15 02:24:48,grocery_pos,68.84,NM,Crownpoint,M,IT consultant,"fraud_Moen, Reinger and Murphy",0
+2020-01-18 14:37:44,home,14.86,PA,Philadelphia,F,Structural engineer,fraud_Botsford and Sons,0
+2019-01-02 15:34:29,travel,576.25,IN,Bristow,M,Horticultural therapist,"fraud_Hagenes, Hermann and Stroman",0
+2019-12-05 16:00:32,home,83.8,NY,Saint Bonaventure,M,Toxicologist,"fraud_Windler, Goodwin and Kovacek",0
+2019-05-27 06:47:33,gas_transport,36.16,TN,Slayden,F,Prison officer,"fraud_Reilly, Heaney and Cole",0
+2019-12-15 19:35:03,personal_care,120.8,VT,Hinesburg,F,Claims inspector/assessor,"fraud_Kihn, Brakus and Goyette",0
+2019-12-02 08:46:25,shopping_pos,2.88,TN,Powell,M,"Teacher, special educational needs",fraud_Hudson-Grady,0
+2019-11-08 13:30:22,misc_pos,6.03,SC,Bradley,F,Research scientist (physical sciences),fraud_Herman Inc,0
+2019-03-24 11:25:43,gas_transport,78.94,TX,Holliday,M,Chief Technology Officer,"fraud_Eichmann, Bogan and Rodriguez",0
+2020-06-17 17:45:27,home,80.45,MA,Lawrence,M,Geoscientist,fraud_Altenwerth-Kilback,0
+2020-03-16 20:59:48,home,88.41,NJ,Fairview,M,"Programmer, multimedia",fraud_Renner Ltd,0
+2019-04-27 02:04:20,shopping_pos,8.97,OR,Kent,M,Museum education officer,fraud_Torphy-Goyette,0
+2020-05-06 18:18:29,shopping_pos,37.77,NC,Creedmoor,F,Chief Strategy Officer,fraud_Pagac LLC,0
+2020-05-24 17:23:56,kids_pets,66.86,TN,Tiptonville,F,Geochemist,fraud_Bode-Rempel,0
+2019-09-18 05:22:59,gas_transport,48.44,VA,Catawba,F,Equality and diversity officer,fraud_Mraz-Herzog,0
+2019-09-07 07:48:47,shopping_net,30.87,MO,Saint Louis,F,Occupational hygienist,"fraud_Stanton, Jakubowski and Baumbach",0
+2020-01-16 01:35:50,gas_transport,50.66,NY,Cowlesville,F,Colour technologist,"fraud_Robel, Cummerata and Prosacco",0
+2020-01-06 01:41:05,grocery_pos,94.13,FL,Hampton,M,Oncologist,"fraud_Schultz, Simonis and Little",0
+2019-03-21 02:33:16,gas_transport,55.91,KS,Utica,M,Product/process development scientist,fraud_Huels-Nolan,0
+2019-12-30 13:00:34,kids_pets,13.48,WY,Freedom,M,"Education officer, museum",fraud_Nolan-Williamson,0
+2020-06-14 19:43:49,shopping_pos,9.64,LA,Saint Amant,F,"Surveyor, rural practice",fraud_Torphy-Goyette,0
+2019-06-11 15:42:07,personal_care,9.34,MO,Centerview,F,Electronics engineer,fraud_Langworth LLC,0
+2020-03-01 06:37:13,shopping_net,2.42,LA,Tickfaw,M,"Accountant, chartered public finance",fraud_Terry-Huel,0
+2019-07-08 06:23:51,misc_net,367.93,PA,Bristol,F,"Administrator, charities/voluntary organisations","fraud_Johnson, Runolfsdottir and Mayer",0
+2019-11-12 20:18:22,misc_pos,31.86,WA,Conway,F,"Research officer, political party",fraud_Wisozk and Sons,0
+2020-03-04 15:02:15,travel,4.2,MD,Kensington,M,Operations geologist,"fraud_McLaughlin, Armstrong and Koepp",0
+2019-07-08 12:18:12,travel,5.27,VT,Hinesburg,F,Claims inspector/assessor,fraud_Little-Gleichner,0
+2020-04-12 14:59:50,food_dining,5.03,GA,Hahira,F,"Teacher, special educational needs","fraud_Koss, McLaughlin and Mayer",0
+2019-01-18 08:42:04,shopping_pos,2.18,AK,Wales,M,"Administrator, education","fraud_Bernhard, Grant and Langworth",0
+2020-04-06 05:41:38,grocery_net,60.82,AR,Texarkana,F,Surgeon,"fraud_Tromp, Kerluke and Glover",0
+2019-07-29 16:30:51,home,74.56,PA,Oaks,M,Oceanographer,"fraud_Windler, Goodwin and Kovacek",0
+2020-05-15 14:30:46,shopping_net,1.75,UT,Thompson,F,"Surveyor, minerals",fraud_Medhurst PLC,0
+2019-12-14 18:51:20,travel,1.4,NY,Camden,F,Building control surveyor,fraud_Thiel Ltd,0
+2020-06-07 17:01:14,shopping_net,5.45,OR,Lake Oswego,F,Planning and development surveyor,fraud_Gleason-Macejkovic,0
+2019-08-05 19:57:53,health_fitness,51.71,OK,Coyle,F,Amenity horticulturist,fraud_Hamill-D'Amore,0
+2019-01-10 03:38:52,shopping_net,2.12,ND,Wilton,F,"Designer, ceramics/pottery",fraud_Stamm-Witting,0
+2019-07-30 04:32:24,grocery_pos,105.27,CA,Palmdale,M,Chemical engineer,fraud_Cole PLC,0
+2020-04-24 20:36:51,shopping_pos,3.23,IL,Bonfield,F,Medical secretary,"fraud_Swaniawski, Lowe and Robel",0
+2019-12-23 08:49:44,shopping_net,1.36,NC,Summerfield,M,"Buyer, industrial",fraud_Price Inc,0
+2019-11-21 10:28:04,gas_transport,53.6,SC,Prosperity,F,Archaeologist,fraud_Ledner-Pfannerstill,0
+2019-09-08 15:19:08,entertainment,3.68,KS,Topeka,F,Secondary school teacher,fraud_Donnelly LLC,0
+2019-12-08 06:44:47,grocery_net,107.03,FL,Grand Ridge,F,Art gallery manager,fraud_Rempel PLC,0
+2019-01-22 22:19:19,entertainment,50.22,IA,Des Moines,M,Interior and spatial designer,fraud_Brown-Greenholt,0
+2019-05-04 03:48:38,grocery_pos,89.48,TX,Altair,F,"Editor, film/video",fraud_Kunze Inc,0
+2019-11-08 22:07:21,home,72.89,VA,Edinburg,M,"Designer, multimedia",fraud_Stark-Koss,0
+2019-12-25 13:10:46,entertainment,69.4,PA,Fenelton,M,Communications engineer,fraud_Cruickshank-Mills,0
+2020-06-06 14:17:38,food_dining,37.25,TN,Old Hickory,F,Prison officer,fraud_Ernser-Lynch,0
+2020-03-17 02:00:21,shopping_pos,4.89,CA,San Diego,M,Chartered public finance accountant,fraud_Jacobi and Sons,0
+2019-09-19 15:31:22,kids_pets,38.62,TN,Knoxville,F,"Designer, industrial/product",fraud_Weimann-Lockman,0
+2019-07-10 06:35:18,grocery_pos,51.24,NC,Haw River,M,Paramedic,"fraud_Goldner, Kovacek and Abbott",0
+2019-05-20 18:37:15,kids_pets,240.99,CA,Indian Wells,M,Learning mentor,"fraud_Pouros, Walker and Spencer",0
+2019-12-25 10:47:28,grocery_pos,118.97,PA,Mc Clellandtown,F,"Sales professional, IT",fraud_Kunze Inc,0
+2019-06-07 06:07:51,grocery_pos,98.36,NE,Ravenna,M,"Solicitor, Scotland",fraud_Hudson-Ratke,0
+2019-07-07 07:50:00,shopping_net,1.41,TX,Purmela,M,Web designer,"fraud_Greenholt, O'Hara and Balistreri",0
+2019-11-07 15:37:12,home,155.55,TX,Meridian,F,Phytotherapist,"fraud_Witting, Beer and Ernser",0
+2019-01-18 09:26:54,gas_transport,76.03,TX,San Angelo,F,Drilling engineer,fraud_Torp-Labadie,0
+2019-03-31 21:36:43,health_fitness,20.13,TX,Laredo,M,Video editor,fraud_Fritsch and Sons,0
+2019-03-21 23:44:19,misc_pos,3.29,CA,Hawthorne,M,"Editor, magazine features",fraud_Bruen-Yost,0
+2020-03-15 07:12:47,grocery_net,30.36,NE,Campbell,F,"Surveyor, minerals",fraud_Ortiz Group,0
+2019-09-16 19:29:53,personal_care,8.78,SC,Blackville,F,Technical brewer,"fraud_Medhurst, Cartwright and Ebert",0
+2019-08-17 21:37:23,food_dining,34.59,MT,Turner,M,Further education lecturer,fraud_Bahringer-Streich,0
+2019-01-02 22:26:44,food_dining,95.2,IL,Goreville,F,"Teacher, secondary school",fraud_Haag-Blanda,0
+2019-06-26 18:52:18,health_fitness,16.74,TX,Thrall,F,Press sub,fraud_Hirthe-Beier,0
+2020-01-17 02:42:20,grocery_pos,134.58,NE,Howells,M,Research scientist (maths),fraud_Wolf Inc,0
+2019-05-05 22:14:22,home,68.82,MI,Rumely,M,Film/video editor,fraud_Pollich LLC,0
+2019-07-20 18:01:08,kids_pets,21.64,OK,Oklahoma City,M,Advertising copywriter,fraud_Bode-Rempel,0
+2020-06-13 02:33:07,grocery_pos,90.85,AL,Jones,F,Materials engineer,"fraud_Rowe, Batz and Goodwin",0
+2020-04-27 08:48:50,gas_transport,51.68,SD,Fulton,F,Financial adviser,fraud_Friesen-Stamm,0
+2019-04-13 13:39:20,home,9.17,MS,Sturgis,F,Medical physicist,fraud_Stark-Koss,0
+2019-12-16 09:22:00,gas_transport,76.37,MA,Barnstable,F,Counselling psychologist,fraud_Erdman-Kertzmann,0
+2019-08-28 08:58:24,shopping_net,82.73,WI,Hewitt,M,Arts development officer,"fraud_Romaguera, Cruickshank and Greenholt",0
+2019-04-15 12:49:36,home,237.51,PA,Atglen,F,Product manager,"fraud_Cole, Hills and Jewess",0
+2019-04-18 22:52:35,shopping_pos,246.72,GA,Juliette,F,Theatre manager,fraud_Mohr Inc,0
+2019-11-30 12:44:00,misc_pos,166.91,CO,Pueblo,M,Further education lecturer,fraud_Bruen-Yost,0
+2019-07-19 13:51:52,food_dining,5.33,ME,Nobleboro,F,Financial trader,fraud_Will Ltd,0
+2019-12-31 02:11:41,grocery_pos,45.21,NJ,Monmouth Beach,M,Health promotion specialist,"fraud_Huel, Hammes and Witting",0
+2019-05-16 16:44:27,entertainment,4.99,KS,Topeka,M,Clinical cytogeneticist,fraud_Upton PLC,0
+2019-09-27 20:03:05,travel,4.19,NH,Conway,M,Surgeon,fraud_Ankunding-Carroll,0
+2019-08-18 15:51:25,home,203.12,MO,Rocky Mount,F,Tax inspector,"fraud_Schiller, Blanda and Johnson",0
+2019-06-25 11:40:08,shopping_pos,7.76,IN,Andrews,M,Retail banker,"fraud_Haley, Jewess and Bechtelar",0
+2019-01-05 22:12:08,kids_pets,27.35,AL,Birmingham,M,Musician,fraud_Cartwright PLC,0
+2019-03-30 00:33:44,shopping_net,2.49,MI,Republic,F,Armed forces training and education officer,"fraud_Gottlieb, Considine and Schultz",0
+2020-05-29 08:19:58,shopping_net,6.68,TX,Prairie Hill,F,Barrister,"fraud_Baumbach, Feeney and Morar",0
+2019-02-24 18:53:05,food_dining,18.75,TX,Falls City,F,"Engineer, mining",fraud_Will Ltd,0
+2019-02-10 08:54:25,grocery_pos,78.69,NY,West Harrison,M,Lexicographer,fraud_Hudson-Ratke,0
+2019-01-18 14:25:15,travel,1.55,PA,Spring Church,M,Public relations account executive,fraud_Kovacek Ltd,0
+2019-06-30 07:32:06,misc_net,113.44,NY,Margaretville,M,Environmental health practitioner,fraud_Kris-Weimann,0
+2019-11-12 00:22:26,shopping_pos,134.81,MS,Mayersville,M,Technical brewer,"fraud_Schuppe, Nolan and Hoeger",0
+2019-04-22 20:15:25,entertainment,38.54,FL,Umatilla,F,Private music teacher,fraud_Stark-Batz,0
+2019-11-17 11:16:14,gas_transport,71.6,CO,Meredith,F,Public relations account executive,fraud_Kling Inc,0
+2020-04-21 23:57:59,kids_pets,60.74,IA,Des Moines,F,Wellsite geologist,"fraud_Lowe, Dietrich and Erdman",0
+2019-09-09 02:36:06,gas_transport,59.42,UT,Altonah,F,"Sales professional, IT",fraud_Parisian and Sons,0
+2019-06-15 01:06:24,grocery_pos,288.41,CA,San Jose,F,Geoscientist,fraud_Bogisich Inc,1
+2020-04-10 18:05:37,home,6.87,NE,Hooper,F,"Engineer, automotive",fraud_Wuckert-Goldner,0
+2020-04-28 12:20:23,home,9.88,OK,Mountain Park,F,Research scientist (life sciences),fraud_Ernser-Feest,0
+2019-12-05 15:30:45,entertainment,7.78,AR,Enola,F,"Physicist, medical","fraud_Larkin, Stracke and Greenfelder",0
+2020-03-02 03:48:25,gas_transport,49.57,IL,Cisco,F,Landscape architect,"fraud_Christiansen, Goyette and Schamberger",0
+2019-10-11 18:11:05,health_fitness,75.46,MN,Collegeville,M,Farm manager,fraud_Torphy-Kertzmann,0
+2019-01-27 16:06:38,entertainment,3.65,PA,Rockwood,M,General practice doctor,fraud_Schuppe LLC,0
+2019-03-23 16:21:50,home,84.05,MS,Mayersville,M,Technical brewer,fraud_Gaylord-Powlowski,0
+2019-11-24 22:43:37,shopping_net,8.57,NM,Espanola,M,Historic buildings inspector/conservation officer,fraud_Kozey-Boehm,0
+2020-05-06 18:23:16,kids_pets,40.98,NH,Jaffrey,F,"Surveyor, hydrographic",fraud_Schimmel-Olson,0
+2019-01-21 21:00:14,kids_pets,7.69,AR,Cord,M,"Designer, ceramics/pottery","fraud_Hauck, Dietrich and Funk",0
+2019-05-31 00:00:02,grocery_pos,84.89,WY,Jelm,F,Public librarian,fraud_Vandervort-Funk,0
+2019-10-16 01:56:01,shopping_net,103.51,KS,Easton,M,Air broker,"fraud_Kihn, Abernathy and Douglas",0
+2020-01-19 09:29:13,gas_transport,61.85,OK,Thomas,F,Barrister,fraud_Friesen-Stamm,0
+2020-03-03 19:43:36,shopping_net,14.43,NY,Lowville,F,Theme park manager,fraud_Rempel Inc,0
+2019-09-15 19:41:43,home,74.06,NJ,Elizabeth,M,Operational researcher,fraud_Ernser-Feest,0
+2019-01-11 17:22:20,misc_net,5.34,WA,Orient,F,Special educational needs teacher,"fraud_Stehr, Jewess and Schimmel",0
+2019-12-14 23:08:31,entertainment,68.19,OH,Zaleski,M,Accounting technician,fraud_Bins-Tillman,0
+2019-08-07 13:41:06,grocery_pos,127.42,NY,Brooklyn,F,Medical sales representative,fraud_Kiehn Inc,0
+2019-06-27 15:05:48,personal_care,7.89,NY,East Rochester,M,Retail buyer,"fraud_Medhurst, Cartwright and Ebert",0
+2020-01-09 00:33:10,grocery_pos,109.47,OK,Burbank,M,Sub,fraud_Murray-Smitham,0
+2020-06-06 04:52:19,grocery_pos,73.32,VA,Drakes Branch,F,Energy engineer,fraud_Bauch-Raynor,0
+2019-05-29 11:14:19,gas_transport,77.98,CA,Smith River,F,Web designer,fraud_Bins-Rice,0
+2020-04-09 06:12:02,grocery_net,82.22,TX,San Antonio,M,Exhibition designer,"fraud_Swift, Bradtke and Marquardt",0
+2019-05-03 21:36:41,travel,9.6,NY,Belfast,M,Mechanical engineer,"fraud_Hartmann, Rowe and Hermann",0
+2019-05-01 22:27:48,shopping_net,1.79,ND,Reynolds,F,Visual merchandiser,fraud_Bashirian Group,0
+2019-07-25 13:25:37,health_fitness,31.74,PA,Beaver Falls,F,Podiatrist,"fraud_Hintz, Bauch and Smith",0
+2020-03-04 05:05:07,gas_transport,63.39,LA,Denham Springs,M,Herbalist,"fraud_Tillman, Dickinson and Labadie",0
+2019-08-21 19:27:17,food_dining,45.09,FL,Fort Myers,F,Paramedic,fraud_Bahringer-Streich,0
+2019-03-09 18:38:21,shopping_net,7.07,KS,Wichita,M,Heritage manager,fraud_Fisher Inc,0
+2020-06-06 16:20:35,entertainment,1.18,SC,Arcadia,F,Animal technologist,"fraud_Schaefer, Fay and Hilll",0
+2019-04-28 22:47:10,misc_pos,3.58,GA,Alpharetta,F,Prison officer,fraud_Hermann-Gaylord,0
+2019-08-11 00:58:44,misc_net,9.26,IL,Mulberry Grove,F,Race relations officer,fraud_Miller-Harris,0
+2019-12-23 23:07:36,health_fitness,54.17,CA,Santa Monica,F,"Civil engineer, contracting","fraud_Conroy, Balistreri and Gorczany",0
+2019-07-22 13:10:16,food_dining,66.45,TX,Quanah,M,"Librarian, public",fraud_Zboncak LLC,0
+2019-04-20 20:42:30,food_dining,176.86,PA,Cressona,F,Ecologist,fraud_Bahringer-Streich,0
+2020-04-05 22:46:26,entertainment,79.44,AZ,Superior,F,Petroleum engineer,fraud_Reichel Inc,0
+2020-04-10 14:25:36,kids_pets,41.36,TX,Ratcliff,F,"Engineer, production",fraud_Waelchi-Wolf,0
+2019-12-31 14:49:02,travel,8.04,PA,Lawn,F,Special educational needs teacher,fraud_Tromp Group,0
+2020-03-13 09:09:58,misc_net,183.99,TX,Zavalla,M,"Designer, jewellery",fraud_Kerluke Inc,0
+2019-05-10 22:47:39,health_fitness,11.92,FL,Clearwater,F,"Geneticist, molecular",fraud_Thompson-Gleason,0
+2019-12-02 22:16:24,home,30.09,CA,Glendale,M,Advertising account planner,"fraud_O'Connell, Botsford and Hand",0
+2019-11-24 13:22:00,entertainment,40.53,VA,Arlington,M,Mudlogger,fraud_Morissette LLC,0
+2020-04-23 22:22:13,kids_pets,48.85,FL,Lakeland,F,Clothing/textile technologist,fraud_Berge-Hills,0
+2019-12-31 08:51:44,gas_transport,61.14,PA,Allentown,F,"Scientist, research (maths)",fraud_Parisian and Sons,0
+2020-05-22 11:15:09,grocery_pos,119.88,MD,Corriganville,M,Energy engineer,fraud_Bogisich Inc,0
+2019-09-03 01:11:33,misc_pos,37.46,IL,New Boston,M,Manufacturing engineer,fraud_Towne LLC,0
+2019-02-15 06:10:51,grocery_pos,154.7,LA,Fordoche,F,Community education officer,"fraud_Mosciski, Gislason and Mertz",0
+2020-04-13 23:55:22,home,7.0,ME,West Bethel,M,Chief Operating Officer,fraud_Champlin-Casper,0
+2019-06-15 10:02:45,grocery_pos,39.27,KS,Topeka,F,Secondary school teacher,fraud_Cartwright-Harris,0
+2019-03-12 22:42:03,personal_care,14.8,WA,Conway,F,"Research officer, political party",fraud_Monahan-Morar,0
+2019-08-30 20:50:10,travel,8.42,UT,Thompson,F,"Surveyor, minerals",fraud_Kris-Kertzmann,0
+2019-02-15 08:31:20,grocery_net,42.21,VA,Arlington,M,Mudlogger,"fraud_Rutherford, Homenick and Bergstrom",0
+2019-08-03 00:51:16,gas_transport,53.53,CA,San Jose,F,Science writer,"fraud_Christiansen, Goyette and Schamberger",0
+2019-10-17 17:55:26,kids_pets,22.91,MI,Lakeview,M,Emergency planning/management officer,fraud_Bednar PLC,0
+2020-02-17 21:56:24,travel,9.98,ND,Wilton,F,"Designer, ceramics/pottery","fraud_Larson, Quitzon and Spencer",0
+2019-12-27 05:02:31,grocery_pos,84.39,GA,Milner,M,Field seismologist,fraud_Stracke-Lemke,0
+2019-08-17 20:49:53,shopping_net,29.1,ID,Meridian,F,Intelligence analyst,fraud_Kassulke PLC,0
+2020-06-05 06:35:38,gas_transport,58.98,MD,Chester,M,Paediatric nurse,fraud_Cummings LLC,0
+2019-07-13 20:07:22,entertainment,49.63,ME,Bowdoin,M,"Engineer, electronics",fraud_Larson-Moen,0
+2019-12-13 19:53:08,shopping_pos,3.45,TX,Sachse,M,Site engineer,"fraud_Baumbach, Strosin and Nicolas",0
+2019-09-16 19:17:48,entertainment,62.96,LA,Egan,M,Broadcast presenter,fraud_Dibbert and Sons,0
+2019-08-12 15:18:13,shopping_pos,3.69,NY,Northport,M,Tour manager,fraud_Pfeffer and Sons,0
+2019-10-03 17:39:29,travel,25.67,TX,Leonard,F,Sub,"fraud_Ritchie, Bradtke and Stiedemann",0
+2019-12-11 17:06:23,misc_pos,3.18,IL,Mulberry Grove,F,Race relations officer,fraud_Dickinson-Rempel,0
+2019-07-29 05:55:49,misc_net,25.62,MA,Shrewsbury,M,English as a second language teacher,fraud_Jaskolski-Vandervort,0
+2019-09-29 05:10:21,misc_pos,92.29,AL,Brantley,F,Exercise physiologist,"fraud_Yost, Block and Koepp",0
+2020-02-07 11:08:03,grocery_pos,114.26,AR,Haynes,F,"Programmer, applications",fraud_Cartwright-Harris,0
+2019-02-12 20:57:54,home,9.89,PA,Mc Veytown,M,Nutritional therapist,fraud_Streich Ltd,0
+2019-11-14 00:04:59,grocery_pos,195.36,NC,Creedmoor,F,Chief Strategy Officer,fraud_Koepp-Parker,0
+2020-02-06 20:22:49,home,22.19,MI,Muskegon,M,Historic buildings inspector/conservation officer,fraud_Beier and Sons,0
+2019-01-08 09:27:25,shopping_pos,2.31,WI,Wittenberg,M,Senior tax professional/tax inspector,"fraud_Bernhard, Grant and Langworth",0
+2019-09-09 13:38:12,entertainment,24.23,FL,Saint Petersburg,M,"Engineer, land",fraud_Larson-Moen,0
+2019-09-05 19:44:51,home,59.33,TX,Humble,M,Tax adviser,fraud_Botsford PLC,0
+2020-06-20 09:50:35,grocery_pos,87.94,MA,Shrewsbury,M,English as a second language teacher,fraud_Cartwright-Harris,0
+2019-07-15 15:22:02,home,6.5,FL,Loxahatchee,F,Paramedic,fraud_Skiles LLC,0
+2020-06-07 21:37:38,home,113.8,OH,Amsterdam,M,Mental health nurse,fraud_Jakubowski Inc,0
+2019-12-11 09:40:52,shopping_pos,233.27,MA,Ashfield,M,"Production assistant, radio",fraud_Stoltenberg-Beatty,0
+2019-08-21 06:56:48,shopping_pos,6.76,CA,Santa Monica,F,"Civil engineer, contracting","fraud_Okuneva, Schneider and Rau",0
+2019-01-02 17:00:18,shopping_pos,5.67,WV,Thomas,F,Forensic psychologist,"fraud_Douglas, Schneider and Turner",0
+2019-07-10 03:45:18,misc_pos,275.05,FL,Clearwater,F,"Geneticist, molecular",fraud_Balistreri-Nader,0
+2019-09-01 19:22:50,health_fitness,50.85,NE,North Loup,F,"Nurse, children's","fraud_Mueller, Gerhold and Mueller",0
+2019-10-03 08:10:51,gas_transport,67.44,OR,Powell Butte,F,Local government officer,fraud_Cummerata-Jones,0
+2019-06-11 07:57:47,shopping_net,2.81,NJ,Greenwich,M,Insurance risk surveyor,"fraud_Labadie, Treutel and Bode",0
+2019-12-02 16:58:04,entertainment,93.75,IN,Kingsford Heights,F,"Psychologist, forensic",fraud_Cruickshank-Mills,0
+2019-06-21 16:43:26,personal_care,61.27,MA,Paxton,F,Accounting technician,fraud_Auer LLC,0
+2020-04-20 08:16:51,misc_pos,691.2,OK,Tulsa,F,Bookseller,fraud_Dickinson-Rempel,0
+2019-12-02 09:44:12,misc_pos,6.99,OH,Mount Perry,M,Barrister's clerk,fraud_Wiza LLC,0
+2019-11-20 13:49:59,home,12.65,SC,Brunson,F,Social researcher,fraud_Padberg-Sauer,0
+2019-04-07 12:59:53,food_dining,23.77,AZ,Superior,F,Petroleum engineer,fraud_Ernser-Lynch,0
+2020-05-18 20:11:55,home,50.97,IA,Clutier,M,"Embryologist, clinical",fraud_Champlin and Sons,0
+2020-03-28 12:55:29,shopping_net,5.63,ID,Meridian,F,Intelligence analyst,fraud_Kerluke-Abshire,0
+2019-02-13 00:19:20,gas_transport,83.5,VA,Springfield,M,Production engineer,fraud_Schmitt Inc,0
+2019-12-07 18:00:43,misc_pos,6.56,MN,Georgetown,F,"Research officer, trade union",fraud_Reynolds-Schinner,0
+2020-06-16 04:31:07,grocery_pos,110.9,MI,Mount Clemens,F,"Psychologist, sport and exercise",fraud_O'Keefe-Hudson,0
+2019-12-06 13:00:50,food_dining,9.03,MT,Heart Butte,F,Water engineer,"fraud_Lesch, D'Amore and Brown",0
+2020-06-06 19:36:38,shopping_net,2.78,AR,Smackover,M,Financial adviser,"fraud_Kuhic, Bins and Pfeffer",0
+2019-10-07 18:10:48,kids_pets,167.73,NY,Springfield Gardens,M,Production manager,fraud_Schoen-Quigley,0
+2019-10-27 18:28:17,misc_pos,1.36,OH,Lima,M,"Copywriter, advertising",fraud_Eichmann-Russel,0
+2019-08-30 12:01:43,shopping_pos,4.8,OH,Hinckley,F,Medical sales representative,fraud_Hermann and Sons,0
+2019-05-10 17:05:27,food_dining,6.52,PA,Mill Creek,F,Archaeologist,fraud_Ernser-Lynch,0
+2019-12-09 06:20:09,food_dining,85.66,PA,Glen Rock,F,Insurance claims handler,"fraud_Graham, Hegmann and Hammes",0
+2019-08-19 05:33:12,shopping_pos,3.66,KY,Cranks,F,"Psychologist, counselling","fraud_Swaniawski, Lowe and Robel",0
+2020-03-22 15:53:13,kids_pets,98.13,NC,Bailey,F,Call centre manager,fraud_Gottlieb Group,0
+2020-05-12 11:21:05,gas_transport,48.76,SD,Hurley,F,Neurosurgeon,fraud_Kuvalis Ltd,0
+2019-12-29 02:36:55,gas_transport,46.28,IN,Harrodsburg,M,Social researcher,"fraud_Eichmann, Bogan and Rodriguez",0
+2019-12-15 18:40:09,home,43.6,FL,Vero Beach,F,"Librarian, public",fraud_White and Sons,0
+2019-09-29 19:37:47,food_dining,1.76,MN,Stanchfield,F,"Lecturer, further education","fraud_Langosh, Wintheiser and Hyatt",0
+2019-01-28 17:42:40,food_dining,10.6,KY,River,F,Quarry manager,fraud_O'Hara-Wilderman,0
+2019-02-02 13:47:50,food_dining,62.85,NY,Cottekill,F,Comptroller,"fraud_Hermiston, Russel and Price",0
+2020-05-27 23:49:09,entertainment,2.9,ME,Bowdoin,M,"Engineer, electronics",fraud_Grimes LLC,0
+2019-07-22 15:21:56,health_fitness,127.4,OH,Ironton,M,Geochemist,fraud_Dietrich-Fadel,0
+2019-07-29 12:36:16,shopping_net,297.94,NJ,Plainfield,F,Leisure centre manager,fraud_Predovic Inc,0
+2019-01-10 08:26:51,gas_transport,77.35,AL,Phil Campbell,F,"Engineer, aeronautical",fraud_Bernhard Inc,0
+2020-04-14 07:06:04,gas_transport,72.56,CA,Azusa,F,Civil Service fast streamer,fraud_Sporer Inc,0
+2019-09-05 01:09:23,gas_transport,52.81,KS,Topeka,F,Secondary school teacher,fraud_Bernhard Inc,0
+2019-12-24 17:27:14,shopping_net,184.75,TX,Leonard,F,Sub,fraud_Lemke-Gutmann,0
+2019-01-29 21:30:34,home,18.12,TN,Slayden,F,Prison officer,fraud_Botsford PLC,0
+2019-11-11 15:04:42,home,22.65,MS,Sturgis,F,Medical physicist,fraud_O'Connell-Ullrich,0
+2019-12-29 13:33:14,entertainment,23.71,TN,Kingsport,F,Warden/ranger,fraud_Abbott-Rogahn,0
+2019-11-09 12:38:12,misc_pos,57.51,CA,Sacramento,M,Magazine features editor,fraud_Boyer PLC,0
+2020-05-25 15:10:32,personal_care,41.11,FL,Bonita Springs,F,Claims inspector/assessor,fraud_Bins-Howell,0
+2019-10-19 20:59:57,shopping_pos,4.94,FL,Saint James City,M,Sport and exercise psychologist,fraud_Dooley Inc,0
+2019-12-22 13:05:46,kids_pets,49.77,NY,Saint Bonaventure,M,Toxicologist,"fraud_Hauck, Dietrich and Funk",0
+2020-04-30 21:51:12,kids_pets,49.76,MN,Orr,M,Horticultural therapist,fraud_Breitenberg-Hermiston,0
+2020-03-28 23:07:30,health_fitness,73.79,WY,Fort Washakie,M,Freight forwarder,"fraud_Torp, Muller and Borer",0
+2019-04-14 15:01:28,home,76.07,IA,Des Moines,F,Wellsite geologist,"fraud_Windler, Goodwin and Kovacek",0
+2020-06-01 09:48:05,misc_pos,106.32,NC,Wilmington,F,English as a second language teacher,fraud_McDermott-Rice,0
+2019-01-13 07:59:14,misc_net,224.41,FL,Lakeland,F,Clothing/textile technologist,fraud_Volkman Ltd,0
+2019-08-30 22:50:09,kids_pets,38.51,MO,Syracuse,M,"Radiographer, diagnostic",fraud_Rau-Robel,0
+2019-03-17 21:23:51,shopping_pos,2.04,NH,Conway,M,Surgeon,fraud_Pouros-Haag,0
+2020-05-06 11:11:39,grocery_pos,236.58,TX,Pecos,F,"Merchandiser, retail",fraud_Deckow-O'Conner,0
+2019-12-07 13:33:05,home,72.18,WI,Saxon,M,Television/film/video producer,fraud_Botsford PLC,0
+2019-07-29 16:11:43,kids_pets,78.38,KY,Pewee Valley,M,Stage manager,fraud_Fahey Inc,0
+2019-06-11 12:19:28,shopping_pos,189.53,NC,Wilmington,F,English as a second language teacher,fraud_Pacocha-Bauch,0
+2019-02-04 06:14:05,gas_transport,83.63,AR,Thida,M,Careers information officer,fraud_Bartoletti-Wunsch,0
+2019-10-30 05:19:29,shopping_pos,138.6,WI,Boyd,M,IT trainer,fraud_Pouros-Haag,0
+2019-06-08 18:05:15,entertainment,153.93,WA,Vancouver,F,Teaching laboratory technician,"fraud_Nicolas, Hills and McGlynn",0
+2019-01-30 20:50:25,personal_care,14.89,NY,Belfast,M,Mechanical engineer,fraud_Kozey-Kuhlman,0
+2019-06-12 17:04:03,personal_care,20.34,GA,Whigham,F,"Editor, commissioning",fraud_Auer LLC,0
+2020-06-02 05:39:05,gas_transport,76.2,NV,Ruth,M,Interpreter,fraud_Heller-Langosh,0
+2019-02-11 07:45:15,misc_pos,192.43,NJ,Plainfield,F,Leisure centre manager,fraud_Buckridge PLC,0
+2019-07-26 12:03:58,food_dining,5.54,PA,Uledi,F,Tree surgeon,"fraud_Turner, Ziemann and Lehner",0
+2019-02-27 06:47:40,food_dining,92.49,WI,Waupaca,F,"Engineer, civil (contracting)",fraud_Kilback Group,0
+2019-08-10 13:36:23,home,73.48,NY,Brooklyn,F,Medical sales representative,"fraud_Wuckert, Wintheiser and Friesen",0
+2019-07-22 11:41:33,grocery_net,23.26,KS,Burrton,F,Gaffer,fraud_Runolfsson and Sons,0
+2020-06-16 17:52:42,shopping_pos,4.89,TX,Cleveland,F,Building surveyor,fraud_Pouros-Haag,0
+2020-04-07 08:15:06,misc_net,9.17,WA,Conway,F,"Research officer, political party",fraud_Kuhn LLC,0
+2019-03-18 15:29:55,home,20.26,LA,Baton Rouge,F,"Designer, furniture",fraud_Botsford PLC,0
+2019-12-24 03:52:41,gas_transport,59.98,UT,Altonah,F,"Sales professional, IT",fraud_Schmitt Inc,0
+2019-04-24 04:39:53,grocery_pos,102.41,WI,Saxon,M,Television/film/video producer,"fraud_Moen, Reinger and Murphy",0
+2020-05-02 12:30:55,shopping_pos,5.9,MI,Manistique,F,Trade mark attorney,"fraud_Daugherty, Pouros and Beahan",0
+2019-05-13 09:53:51,gas_transport,50.35,PA,Keisterville,F,Systems developer,fraud_Huels-Nolan,0
+2019-04-24 21:16:36,entertainment,64.88,OH,Mount Saint Joseph,M,Exhibition designer,fraud_Dare-Marvin,0
+2019-07-26 13:25:19,misc_pos,5.45,NJ,Ogdensburg,F,Senior tax professional/tax inspector,fraud_Eichmann-Russel,0
+2020-01-04 07:18:31,gas_transport,52.97,OK,Tulsa,F,Bookseller,"fraud_Jenkins, Hauck and Friesen",0
+2019-12-25 18:29:33,home,66.88,WI,Hewitt,M,Arts development officer,fraud_Berge-Ullrich,0
+2019-12-24 19:23:10,personal_care,4.08,VT,Hinesburg,F,Claims inspector/assessor,fraud_Dickinson Ltd,0
+2020-02-27 05:06:08,entertainment,17.88,KS,Ozawkie,M,Theatre director,"fraud_Schroeder, Hauck and Treutel",0
+2019-11-17 02:10:04,gas_transport,63.93,VA,Greenbush,M,Psychiatrist,"fraud_Streich, Hansen and Veum",0
+2019-07-08 19:12:48,home,16.57,CA,Sacramento,M,Soil scientist,"fraud_O'Reilly, Mohr and Purdy",0
+2019-01-04 03:29:33,shopping_net,85.47,PA,Bolivar,M,"Administrator, local government","fraud_Stanton, Jakubowski and Baumbach",0
+2019-08-15 17:29:54,shopping_pos,2.07,CT,East Canaan,F,Comptroller,"fraud_Roob, Conn and Tremblay",0
+2019-06-25 02:23:25,gas_transport,49.52,PA,Uledi,F,Tree surgeon,"fraud_Christiansen, Goyette and Schamberger",0
+2019-07-21 11:29:09,gas_transport,58.39,TX,Altair,F,"Editor, film/video","fraud_Stroman, Hudson and Erdman",0
+2019-12-25 20:43:46,health_fitness,19.63,PA,Chester Heights,M,Management consultant,fraud_Ratke and Sons,0
+2019-03-01 21:17:00,shopping_pos,21.3,NC,Haw River,M,Paramedic,"fraud_Schuppe, Nolan and Hoeger",0
+2019-08-27 22:59:33,home,266.28,AR,Bauxite,F,"Scientist, audiological","fraud_Moore, Williamson and Emmerich",1
+2019-12-23 22:28:31,personal_care,29.56,MI,Detroit,M,Broadcast presenter,fraud_Shanahan-Lehner,0
+2019-02-23 03:40:16,gas_transport,60.22,OH,Bowersville,F,Quantity surveyor,fraud_Parisian and Sons,0
+2020-04-28 15:05:53,food_dining,91.9,OK,Lane,M,Quantity surveyor,fraud_Will Ltd,0
+2019-10-28 12:49:49,personal_care,150.51,CA,San Diego,M,Chartered public finance accountant,fraud_Bins-Howell,0
+2019-09-14 22:52:24,shopping_pos,3.58,VA,Glade Spring,M,Clinical psychologist,fraud_Pacocha-Bauch,0
+2019-09-09 00:15:48,misc_net,8.51,FL,Key West,M,Town planner,fraud_Bogisich-Homenick,0
+2019-09-17 18:24:19,misc_pos,148.77,MI,Goodrich,F,Learning disability nurse,fraud_Herzog Ltd,0
+2020-05-18 15:13:06,personal_care,11.45,WI,Bagley,F,Risk analyst,"fraud_Schoen, Nienow and Bauch",0
+2019-05-10 15:46:54,personal_care,229.71,PA,Grassflat,F,Pension scheme manager,fraud_Leffler-Goldner,0
+2020-02-09 04:36:22,food_dining,25.24,FL,Lakeland,M,Plant breeder/geneticist,fraud_Deckow-Dare,0
+2019-04-16 12:57:48,kids_pets,18.62,FL,Port Charlotte,M,Quantity surveyor,fraud_Bode-Schuster,1
+2019-05-04 23:45:07,health_fitness,48.6,TX,Keller,M,Probation officer,fraud_Kub-Heaney,0
+2019-01-11 12:32:37,home,110.77,NE,Fullerton,F,"Surveyor, mining",fraud_Jakubowski Inc,0
+2019-12-21 18:57:20,health_fitness,11.98,MN,Emmons,M,Communications engineer,fraud_Adams-Barrows,0
+2019-03-21 05:57:09,grocery_pos,126.12,MS,Duncan,F,Trading standards officer,fraud_Hackett-Lueilwitz,0
+2020-05-29 13:41:19,shopping_net,16.5,OH,Bethel,F,Field trials officer,fraud_Price Inc,0
+2019-11-26 18:07:10,shopping_net,5.08,NJ,Ogdensburg,F,Senior tax professional/tax inspector,fraud_Boyer PLC,0
+2019-03-17 23:25:02,travel,434.56,MO,Williamsburg,M,Glass blower/designer,"fraud_Ritchie, Oberbrunner and Cremin",0
+2020-04-04 21:46:15,personal_care,44.94,TX,Zavalla,M,"Designer, jewellery",fraud_Kozey-Kuhlman,0
+2019-08-21 21:39:31,personal_care,18.19,MI,Arcadia,M,"Designer, jewellery",fraud_Osinski Inc,0
+2019-06-04 20:10:20,food_dining,6.28,TX,Altair,F,"Editor, film/video","fraud_Armstrong, Walter and Gottlieb",0
+2019-07-09 11:31:55,shopping_pos,5.76,NY,West Chazy,M,Engineering geologist,fraud_Torphy-Goyette,0
+2020-04-09 16:19:42,kids_pets,52.11,CA,Lakeport,F,Podiatrist,fraud_Swift PLC,0
+2019-07-07 20:28:53,home,59.99,PA,Rockwood,M,General practice doctor,fraud_Champlin and Sons,0
+2020-01-16 22:14:36,misc_pos,2.02,NM,Ruidoso,F,Licensed conveyancer,fraud_Howe Ltd,0
+2020-03-22 16:16:32,shopping_net,52.83,MN,Hills,F,Data scientist,fraud_Kozey-Boehm,0
+2020-06-07 10:55:31,misc_net,2.2,PA,Pittsburgh,M,"Scientist, marine","fraud_Tillman, Fritsch and Schmitt",0
+2019-07-26 10:27:53,gas_transport,28.77,PA,Clarks Mills,F,Energy manager,"fraud_Stroman, Hudson and Erdman",0
+2019-06-16 13:42:08,personal_care,25.44,MT,Heart Butte,F,Water engineer,fraud_Osinski Inc,0
+2019-08-15 15:18:17,kids_pets,41.39,WV,Winfield,M,Exhibition designer,fraud_Lubowitz-Walter,0
+2020-04-27 09:30:32,grocery_net,32.74,MS,Moorhead,M,Chartered public finance accountant,fraud_Kemmer-Reinger,0
+2019-08-18 18:36:55,entertainment,6.52,KY,Saint Francis,M,"Research officer, political party",fraud_Cruickshank-Mills,0
+2019-12-27 11:43:58,misc_net,8.66,PA,Pittsburgh,M,"Scientist, marine","fraud_Lehner, Mosciski and King",0
+2019-07-12 11:22:50,grocery_pos,223.72,NJ,Plainfield,F,Leisure centre manager,"fraud_Heller, Gutmann and Zieme",0
+2019-03-18 12:48:15,home,74.24,KY,Maysville,F,Advertising account executive,"fraud_Moore, Williamson and Emmerich",0
+2019-01-29 23:10:44,personal_care,89.45,FL,Sebring,F,Environmental consultant,fraud_Kozey-Kuhlman,0
+2019-12-31 06:19:46,misc_pos,5.78,FL,Tampa,F,Waste management officer,fraud_Roberts-Beahan,0
+2019-08-08 07:50:21,gas_transport,54.49,MN,Halstad,F,"Scientist, audiological","fraud_Raynor, Reinger and Hagenes",0
+2019-04-07 13:10:14,home,14.66,CA,Oakland,M,Barista,fraud_Collier LLC,0
+2019-01-01 10:30:25,grocery_net,66.45,FL,Saint James City,M,Sport and exercise psychologist,"fraud_Johnston, Nikolaus and Maggio",0
+2019-12-12 19:19:18,kids_pets,95.47,NC,Summerfield,M,"Buyer, industrial",fraud_Hammes-Beatty,0
+2019-10-14 06:00:53,misc_pos,4.73,FL,Sebring,F,Environmental consultant,fraud_Roberts-Beahan,0
+2020-01-06 13:15:37,misc_pos,103.92,IN,Kingsford Heights,F,"Psychologist, forensic","fraud_Nienow, Ankunding and Collier",0
+2019-06-25 20:21:33,travel,1.95,NC,Haw River,M,Paramedic,"fraud_Hartmann, Rowe and Hermann",0
+2019-03-05 12:52:54,travel,548.42,OH,Zaleski,M,Accounting technician,fraud_Lynch-Mohr,0
+2019-11-10 09:50:31,misc_net,19.7,AL,Phenix City,F,Chemical engineer,fraud_Zemlak Group,0
+2020-06-10 19:33:46,shopping_net,71.83,CO,Littleton,F,Water engineer,"fraud_Reichert, Huels and Hoppe",0
+2019-10-19 18:01:04,health_fitness,74.1,MD,Tuscarora,M,"Production assistant, television",fraud_Dare-Gibson,0
+2019-11-29 00:56:45,misc_net,871.27,NE,Sutherland,F,Insurance broker,"fraud_Hayes, Marquardt and Dibbert",0
+2019-08-03 16:19:15,shopping_pos,1.67,OK,Edmond,M,Media buyer,"fraud_Okuneva, Schneider and Rau",0
+2020-03-16 14:20:53,entertainment,89.73,MO,Rocky Mount,F,Tax inspector,fraud_Thiel-Thiel,0
+2019-05-02 10:41:55,misc_pos,6.61,HI,Honokaa,M,Physiotherapist,fraud_Dickinson Ltd,0
+2019-07-11 07:10:44,shopping_net,87.33,ND,Christine,M,Television floor manager,fraud_Boyer-Reichert,0
+2019-10-25 10:33:04,misc_pos,20.66,OH,Amanda,F,Farm manager,"fraud_Cremin, Hamill and Reichel",0
+2019-12-14 23:19:37,food_dining,62.43,MI,Manistique,F,Trade mark attorney,fraud_Will Ltd,0
+2020-04-24 09:44:52,grocery_pos,117.55,IL,Dieterich,M,"Psychologist, clinical",fraud_Rau and Sons,0
+2019-06-24 17:50:15,food_dining,9.58,OH,Milford,F,Hospital doctor,"fraud_Bahringer, Osinski and Block",0
+2019-06-26 15:06:22,personal_care,13.81,FL,Lanark Village,F,Television production assistant,"fraud_Berge, Kautzer and Harris",0
+2019-08-19 20:05:15,misc_net,90.45,SC,Johns Island,M,Materials engineer,fraud_Ruecker Group,0
+2020-04-22 22:02:01,health_fitness,2.65,NJ,Heislerville,F,Exercise physiologist,"fraud_Ledner, Hartmann and Feest",0
+2019-12-16 16:44:14,shopping_pos,6.22,IL,Dongola,F,Scientific laboratory technician,fraud_Pouros-Haag,0
+2019-07-16 08:10:12,misc_pos,33.25,WI,Boyd,M,IT trainer,fraud_Stamm-Rodriguez,0
+2020-03-25 16:40:09,misc_pos,1.84,IL,Bonfield,F,Medical secretary,"fraud_Terry, Johns and Bins",0
+2020-03-16 11:49:22,grocery_pos,81.65,TX,Lake Jackson,M,Futures trader,fraud_McDermott-Weimann,0
+2019-02-16 14:54:43,shopping_net,2.28,OH,Bowersville,F,Quantity surveyor,fraud_Auer-West,0
+2020-06-15 14:40:17,travel,8.95,OR,Lowell,F,Systems analyst,fraud_Johnston-Casper,0
+2019-07-20 09:34:05,misc_net,6.89,ND,Wilton,F,"Designer, ceramics/pottery","fraud_Rippin, Kub and Mann",0
+2020-04-26 15:28:44,health_fitness,32.58,SC,Bradley,F,Research scientist (physical sciences),fraud_Jacobi Inc,0
+2019-01-29 20:15:30,health_fitness,81.72,MI,Afton,M,Technical brewer,"fraud_Ledner, Hartmann and Feest",0
+2020-05-25 15:53:17,kids_pets,62.0,CO,Parker,M,Materials engineer,fraud_Ruecker-Mayert,0
+2019-06-15 22:56:51,shopping_pos,7.85,NM,Red River,F,"Surveyor, land/geomatics","fraud_Weimann, Kuhic and Beahan",0
+2019-08-18 17:25:31,home,63.7,AL,Plantersville,F,Drilling engineer,fraud_Gaylord-Powlowski,0
+2019-12-04 02:26:31,misc_pos,4.14,TX,Lubbock,M,"Doctor, general practice",fraud_Stiedemann Inc,0
+2020-02-17 14:57:09,health_fitness,74.19,WY,Alva,M,"Administrator, local government",fraud_Adams-Barrows,0
+2020-01-08 09:20:03,shopping_net,4.24,VA,Catawba,F,Equality and diversity officer,fraud_Gleason-Macejkovic,0
+2019-04-14 03:54:42,food_dining,49.23,AL,Gadsden,F,Ceramics designer,fraud_Jakubowski Group,0
+2019-11-29 19:15:53,kids_pets,47.71,PA,Shippingport,M,Secretary/administrator,fraud_Hilpert-Conroy,0
+2019-03-02 21:52:10,home,92.0,OH,Dayton,F,Environmental manager,"fraud_Durgan, Gislason and Spencer",0
+2019-12-30 02:13:05,shopping_net,8.09,IN,Andrews,M,Retail banker,"fraud_Kuhic, Bins and Pfeffer",0
+2019-03-08 13:58:34,personal_care,99.88,VA,Ruckersville,M,"Designer, ceramics/pottery",fraud_Reichel LLC,0
+2019-07-18 22:10:10,health_fitness,4.2,TX,Prairie Hill,F,Barrister,fraud_Ratke and Sons,0
+2019-11-15 13:20:51,health_fitness,63.6,GA,Kings Bay,F,Naval architect,fraud_Torphy-Kertzmann,0
+2020-05-13 19:12:51,health_fitness,5.09,PA,Armagh,F,Early years teacher,fraud_Schroeder Group,0
+2020-05-26 10:53:54,shopping_pos,7.04,NE,Howells,M,Research scientist (maths),fraud_Kihn Inc,0
+2019-06-11 11:11:41,shopping_net,73.45,SD,Barnard,F,Systems developer,fraud_Goyette Inc,0
+2019-01-09 12:55:40,shopping_pos,10.74,MA,Lawrence,M,Geoscientist,fraud_Beier-Hyatt,0
+2019-03-24 08:35:27,shopping_pos,4.54,IA,Webster City,M,Medical secretary,fraud_Hudson-Grady,0
+2019-03-01 07:35:39,shopping_net,2.19,NY,Port Gibson,F,Database administrator,fraud_Auer-West,0
+2019-04-06 16:30:40,food_dining,18.68,CA,Carlotta,F,"Therapist, occupational",fraud_Bernhard-Lesch,0
+2019-07-08 20:41:10,home,26.83,OH,Akron,M,Call centre manager,"fraud_Moore, Williamson and Emmerich",0
+2019-03-17 01:14:12,shopping_pos,5.63,VA,Timberville,M,Waste management officer,"fraud_Baumbach, Hodkiewicz and Walsh",0
+2020-02-20 20:26:12,entertainment,20.84,CA,Lakeport,F,Podiatrist,fraud_Dibbert-Green,0
+2019-10-19 17:09:41,home,74.08,ND,Palermo,M,Administrator,fraud_Beier and Sons,0
+2020-03-13 21:59:13,shopping_net,3.95,OH,Greenville,M,Media planner,"fraud_Schmeler, Bashirian and Price",0
+2019-12-16 22:12:20,home,68.33,PA,Shippingport,M,Secretary/administrator,fraud_White and Sons,0
+2019-02-08 23:37:09,health_fitness,140.04,IL,Bonfield,F,Medical secretary,fraud_Thompson-Gleason,0
+2019-05-21 12:03:29,kids_pets,58.36,NH,Grantham,M,Charity fundraiser,fraud_Lubowitz-Walter,0
+2020-01-15 17:49:23,health_fitness,77.79,NH,Acworth,M,Naval architect,"fraud_Conroy, Balistreri and Gorczany",0
+2020-04-05 05:36:52,shopping_pos,3.0,MI,Luzerne,M,General practice doctor,fraud_Pagac LLC,0
+2019-11-13 20:44:18,shopping_pos,6.31,FL,Key West,M,Town planner,fraud_Jacobi and Sons,0
+2020-04-11 03:02:08,gas_transport,70.11,SC,Blackville,F,Technical brewer,"fraud_Zieme, Bode and Dooley",0
+2020-05-05 05:29:22,shopping_net,1.35,OH,Warren,F,Magazine features editor,fraud_Price Inc,0
+2019-12-03 23:44:38,entertainment,49.77,KY,Elizabethtown,M,Surgeon,"fraud_Fadel, Mertz and Rippin",0
+2019-06-27 10:42:46,grocery_pos,75.23,NC,Pelham,M,Insurance underwriter,fraud_Pacocha-O'Reilly,0
+2020-01-01 02:03:27,grocery_pos,122.57,WA,Conway,F,"Research officer, political party",fraud_Kunze Inc,0
+2019-02-25 00:43:04,grocery_pos,130.28,CA,Santa Monica,F,"Civil engineer, contracting",fraud_Kunze Inc,0
+2019-06-01 19:48:06,home,28.65,KY,Maysville,F,Advertising account executive,fraud_Altenwerth-Kilback,0
+2020-05-23 16:42:46,entertainment,3.11,ID,Mesa,M,Cartographer,fraud_Bins-Tillman,0
+2019-05-19 12:14:19,entertainment,125.21,KY,Deane,F,"Conservation officer, historic buildings",fraud_Padberg-Rogahn,0
+2019-08-25 22:25:12,kids_pets,129.72,CO,Aurora,M,"Scientist, marine",fraud_Schoen Ltd,0
+2019-05-22 14:10:58,shopping_net,1.26,GA,Hahira,F,"Teacher, special educational needs",fraud_Fisher Inc,0
+2019-05-27 03:06:39,grocery_net,42.86,VT,Hinesburg,F,Claims inspector/assessor,fraud_Rowe-Vandervort,0
+2019-05-10 06:32:11,shopping_net,15.17,HI,Honokaa,M,Physiotherapist,fraud_Kerluke-Abshire,0
+2019-12-24 16:04:28,entertainment,41.44,IN,Leo,M,Biomedical engineer,fraud_Johns Inc,0
+2019-10-20 20:41:08,health_fitness,22.9,WY,Lagrange,F,Product/process development scientist,"fraud_Mueller, Gerhold and Mueller",0
+2019-09-01 17:19:12,food_dining,69.68,AR,Enola,F,"Physicist, medical",fraud_Jakubowski Group,0
+2019-12-02 23:05:08,home,80.62,OH,Mount Saint Joseph,M,Exhibition designer,"fraud_Crist, Jakubowski and Littel",0
+2020-02-06 12:35:06,home,68.71,ND,Palermo,M,Administrator,fraud_Wuckert-Goldner,0
+2020-03-13 18:29:53,kids_pets,47.63,KS,Mc Cracken,F,Film/video editor,"fraud_Roberts, Daniel and Macejkovic",0
+2019-08-10 14:15:26,kids_pets,54.74,MO,Kissee Mills,M,"Engineer, agricultural","fraud_Pouros, Walker and Spencer",0
+2019-07-23 20:36:12,travel,5.88,NJ,Boonton,M,"Psychologist, sport and exercise","fraud_Kilback, Nitzsche and Leffler",0
+2019-12-21 05:54:49,misc_net,8.39,KS,Wichita,M,Heritage manager,fraud_Huel-Langworth,0
+2020-05-12 19:48:40,shopping_net,21.17,AR,Thida,M,Careers information officer,fraud_Heathcote LLC,0
+2019-09-22 11:59:15,shopping_pos,7.46,KY,Stephensport,F,Chartered public finance accountant,"fraud_Bins, Balistreri and Beatty",0
+2020-06-02 09:48:33,gas_transport,68.05,NC,Pelham,M,Insurance underwriter,fraud_Luettgen PLC,0
+2019-12-06 14:04:28,personal_care,41.23,TN,Old Hickory,F,Prison officer,fraud_Osinski Inc,0
+2019-10-06 22:54:18,travel,6.58,NC,Bailey,F,Call centre manager,fraud_Tillman LLC,0
+2019-05-23 21:40:18,misc_net,15.8,PA,Mc Veytown,M,Nutritional therapist,fraud_Bednar Group,0
+2019-09-22 22:06:18,health_fitness,13.51,SC,Ehrhardt,F,"Engineer, materials",fraud_Waters-Cruickshank,0
+2019-02-04 12:33:18,shopping_pos,5.58,TX,Cleveland,F,Building surveyor,fraud_Hermann and Sons,0
+2019-09-28 19:17:28,shopping_pos,41.61,TX,Leonard,F,Sub,"fraud_Baumbach, Strosin and Nicolas",0
+2019-03-02 05:49:47,gas_transport,67.82,SC,New Ellenton,F,Biomedical scientist,fraud_Prohaska-Murray,0
+2020-06-16 12:05:26,home,10.22,OK,Tulsa,F,"Teacher, special educational needs",fraud_Medhurst Inc,0
+2019-12-27 02:07:42,gas_transport,71.38,IL,Logan,F,"Scientist, research (physical sciences)","fraud_Reilly, Heaney and Cole",0
+2020-03-08 06:34:39,grocery_net,46.76,CA,Helm,M,Early years teacher,fraud_Collier Inc,0
+2020-04-24 19:58:34,personal_care,31.32,VA,Edinburg,M,"Designer, multimedia","fraud_Bradtke, Torp and Bahringer",0
+2020-03-16 21:12:47,personal_care,71.97,NC,Bailey,F,Call centre manager,fraud_Reichel LLC,0
+2019-07-09 03:01:47,grocery_pos,100.94,SD,Mc Intosh,M,"Designer, industrial/product",fraud_Kuhic Inc,0
+2019-07-10 08:01:50,misc_net,23.68,NJ,Greenwich,M,Insurance risk surveyor,fraud_Donnelly PLC,0
+2019-07-29 11:06:27,gas_transport,70.36,NM,Loving,F,Educational psychologist,fraud_Sporer Inc,0
+2019-12-14 23:54:05,kids_pets,37.75,MI,Oxford,M,Agricultural consultant,"fraud_Lang, Towne and Schuppe",0
+2020-04-18 18:21:43,kids_pets,90.62,KS,Ozawkie,M,Theatre director,fraud_Pacocha-Weissnat,0
+2019-12-18 12:31:26,shopping_pos,183.1,TX,Grandview,F,"Radiographer, therapeutic",fraud_Hudson-Grady,0
+2020-01-01 07:51:37,misc_net,37.23,NY,West Sayville,F,Film/video editor,fraud_Jaskolski-Vandervort,0
+2020-04-04 22:29:54,home,74.9,PA,Smock,M,Charity fundraiser,fraud_Beier and Sons,0
+2019-09-16 03:36:37,gas_transport,82.1,NY,Big Indian,M,Psychiatrist,fraud_Parisian and Sons,0
+2019-11-01 10:36:45,grocery_pos,82.35,OH,Akron,M,Call centre manager,fraud_Strosin-Cruickshank,0
+2019-12-22 02:10:08,grocery_net,24.14,IL,Pembroke Township,F,"Psychotherapist, child",fraud_Cummings Group,0
+2019-01-22 11:28:09,misc_net,32.33,NY,Cottekill,F,Comptroller,fraud_Welch Inc,0
+2019-01-16 12:52:22,kids_pets,36.78,KY,Westport,M,Pensions consultant,fraud_Rau-Robel,0
+2020-04-04 08:04:05,grocery_net,56.68,AL,Mobile,F,"Surveyor, land/geomatics","fraud_Stokes, Christiansen and Sipes",0
+2019-06-25 07:23:52,shopping_pos,1.7,TX,Purmela,M,Web designer,fraud_Turner and Sons,0
+2019-03-22 10:51:12,grocery_pos,143.82,CA,June Lake,M,Health service manager,fraud_Padberg-Welch,0
+2020-05-04 08:06:24,misc_net,6.48,KY,Elizabethtown,M,Surgeon,"fraud_Parisian, Schiller and Altenwerth",0
+2019-04-17 07:42:25,shopping_net,9.55,OH,Mount Perry,M,Barrister's clerk,"fraud_Labadie, Treutel and Bode",0
+2020-05-01 01:30:05,gas_transport,75.72,ME,Nobleboro,F,Financial trader,fraud_Friesen-D'Amore,0
+2019-12-22 20:37:05,shopping_pos,4.64,NY,Tupper Lake,F,Chartered loss adjuster,fraud_Hudson-Grady,0
+2019-06-16 01:59:17,gas_transport,81.01,GA,Vienna,F,Phytotherapist,"fraud_Robel, Cummerata and Prosacco",0
+2020-04-28 16:37:10,health_fitness,18.91,NY,West Henrietta,F,"Teacher, primary school",fraud_Ratke and Sons,0
+2019-12-27 07:25:35,shopping_net,5.39,OK,Lahoma,F,"Programme researcher, broadcasting/film/video",fraud_Hills-Witting,0
+2019-06-08 14:01:57,home,28.77,IA,Birmingham,F,Camera operator,fraud_Champlin-Casper,0
+2019-10-24 17:54:00,shopping_pos,6.06,FL,Lakeland,F,Clothing/textile technologist,"fraud_Nitzsche, Kessler and Wolff",0
+2019-10-09 04:12:47,grocery_pos,108.66,MT,Bridger,M,Chartered loss adjuster,fraud_O'Keefe-Hudson,0
+2019-05-18 16:47:08,shopping_pos,1102.42,NY,West Sayville,F,Film/video editor,fraud_Pouros-Conroy,0
+2019-09-21 18:56:26,shopping_pos,7.14,LA,Denham Springs,M,Herbalist,fraud_Kuhn LLC,0
+2019-03-24 23:17:06,misc_pos,1.79,CA,Glendale,M,Advertising account planner,fraud_Spencer-Runolfsson,0
+2019-05-24 01:24:08,gas_transport,79.28,IA,Battle Creek,F,"Teacher, early years/pre",fraud_Torp-Labadie,0
+2019-12-09 06:02:57,shopping_net,7.77,CO,Meredith,F,Public relations account executive,"fraud_Kihn, Abernathy and Douglas",0
+2019-10-31 08:32:58,grocery_pos,47.48,MI,Detroit,M,Health visitor,"fraud_Mosciski, Gislason and Mertz",0
+2020-01-25 18:52:46,misc_pos,16.56,IN,Leo,M,Biomedical engineer,fraud_Thiel PLC,0
+2019-10-19 16:21:31,personal_care,26.65,NH,Belmont,M,"Scientist, research (medical)","fraud_Bradtke, Torp and Bahringer",0
+2019-06-22 15:04:53,kids_pets,148.03,TX,Thrall,F,Press sub,fraud_Rau-Grant,0
+2019-08-12 07:33:27,gas_transport,64.86,TX,Sachse,M,Site engineer,"fraud_Robel, Cummerata and Prosacco",0
+2019-11-23 08:48:26,shopping_pos,4.9,NY,Garrattsville,F,Naval architect,fraud_Hudson-Grady,0
+2020-03-31 16:24:46,entertainment,157.58,CA,Mountain Center,F,"Therapist, music",fraud_Beier LLC,0
+2019-02-24 09:58:01,grocery_pos,82.82,FL,Naples,M,"Programme researcher, broadcasting/film/video",fraud_Doyle Ltd,0
+2020-02-20 19:25:20,personal_care,26.73,TX,Dallas,M,"Designer, interior/spatial",fraud_Monahan-Morar,0
+2019-07-31 07:54:09,gas_transport,59.5,MT,Turner,M,Further education lecturer,"fraud_Greenholt, Jacobi and Gleason",0
+2019-06-10 23:47:28,kids_pets,49.02,TN,Grand Junction,M,Clothing/textile technologist,"fraud_Yost, Schamberger and Windler",0
+2019-03-16 23:09:37,kids_pets,43.09,GA,Varnell,M,Pensions consultant,fraud_Bogisich-Weimann,0
+2019-04-11 22:36:48,entertainment,174.03,FL,Brandon,F,Environmental consultant,"fraud_Schaefer, Fay and Hilll",0
+2019-11-25 18:55:44,entertainment,251.61,NE,Howells,M,Research scientist (maths),fraud_Dibbert and Sons,0
+2020-01-21 06:02:22,misc_pos,1.25,TX,Karnack,F,Chiropodist,fraud_Thiel PLC,0
+2019-03-13 22:28:43,home,66.77,IL,New Boston,M,Manufacturing engineer,fraud_Altenwerth-Kilback,0
+2020-05-01 16:28:18,food_dining,79.33,NE,Manley,M,Human resources officer,"fraud_Turner, Ziemann and Lehner",0
+2020-06-15 18:44:53,shopping_net,3.89,KS,Esbon,F,Tourism officer,fraud_Kozey-Boehm,0
+2019-10-05 20:16:53,entertainment,43.75,WA,Burlington,F,Public house manager,fraud_Johns-Hoeger,0
+2019-04-18 20:05:12,entertainment,32.25,AZ,Phoenix,F,Counselling psychologist,"fraud_Runolfsdottir, Mueller and Hand",0
+2020-03-17 10:49:57,grocery_pos,107.95,NY,Jefferson,M,Diagnostic radiographer,fraud_Barton Inc,0
+2019-12-15 03:54:43,shopping_pos,8.61,PA,West Decatur,M,Armed forces logistics/support/administrative officer,fraud_Mohr Inc,0
+2019-03-24 16:07:17,shopping_net,197.69,MO,Kansas City,F,Counsellor,fraud_Cormier LLC,0
+2019-10-19 06:21:24,misc_pos,4.63,IN,Veedersburg,F,"Development worker, community",fraud_Reynolds-Schinner,0
+2019-03-03 19:09:51,home,32.04,GA,Brinson,M,"Engineer, broadcasting (operations)",fraud_Champlin and Sons,0
+2019-12-08 17:57:19,personal_care,3.66,KY,Elizabethtown,M,Surgeon,"fraud_Schoen, Nienow and Bauch",0
+2020-05-29 03:01:40,grocery_pos,53.35,NM,Espanola,M,Historic buildings inspector/conservation officer,fraud_Kunze Inc,0
+2019-09-09 19:37:48,entertainment,56.2,SC,Edisto Island,F,"Sales professional, IT",fraud_Reichel Inc,0
+2019-02-14 15:06:46,personal_care,8.16,IA,Clarinda,M,IT trainer,fraud_Zulauf LLC,0
+2019-06-26 03:56:32,gas_transport,69.56,SD,Fulton,F,Financial adviser,fraud_Koss and Sons,0
+2019-04-04 17:52:57,entertainment,19.11,KY,Cranks,F,"Psychologist, counselling",fraud_Howe PLC,0
+2019-05-25 15:41:42,travel,8.82,DC,Washington,M,"Optician, dispensing","fraud_Champlin, Rolfson and Connelly",0
+2020-01-07 15:23:39,personal_care,67.12,NV,Ruth,M,Interpreter,fraud_Monahan-Morar,0
+2019-03-04 17:05:11,personal_care,3.9,MA,Sheffield,F,Radio producer,"fraud_Lubowitz, Terry and Stracke",0
+2020-04-15 20:07:19,kids_pets,127.53,MD,Great Mills,M,Art therapist,"fraud_Yost, Schamberger and Windler",0
+2019-09-01 12:39:41,food_dining,2.78,NC,Fayetteville,M,"Scientist, research (maths)","fraud_Reinger, Weissnat and Strosin",0
+2019-03-14 15:38:40,shopping_pos,3.85,OK,Tulsa,F,"Teacher, special educational needs","fraud_Baumbach, Hodkiewicz and Walsh",0
+2019-11-27 05:13:54,shopping_net,3.28,NJ,Stirling,F,Science writer,"fraud_Little, Gutmann and Lynch",0
+2019-09-12 06:52:57,misc_pos,8.49,GA,Darien,F,Tax adviser,"fraud_Nienow, Ankunding and Collier",0
+2020-06-06 11:29:10,grocery_pos,118.09,OH,Mount Saint Joseph,M,Exhibition designer,"fraud_Kovacek, Dibbert and Ondricka",0
+2020-04-23 03:35:12,entertainment,347.57,FL,Tampa,F,Waste management officer,fraud_Effertz LLC,0
+2020-06-15 06:06:58,shopping_pos,6.6,LA,Metairie,F,Advertising account planner,"fraud_Goyette, Howell and Collier",0
+2020-06-07 19:26:25,personal_care,40.32,TX,Falls City,F,"Engineer, mining",fraud_Kirlin and Sons,0
+2019-06-09 05:50:05,grocery_pos,109.6,ME,Nobleboro,F,Financial trader,fraud_Auer-Mosciski,0
+2019-12-08 07:29:00,gas_transport,75.64,WY,Jelm,F,Public librarian,fraud_Cummings LLC,0
+2019-03-03 18:05:27,shopping_net,8.84,KY,Westport,M,Pensions consultant,fraud_Auer-West,0
+2019-08-21 05:25:03,shopping_net,9.56,PA,North Washington,F,Patent attorney,fraud_Terry-Huel,0
+2019-11-02 17:12:47,misc_net,9.51,NV,Reno,M,Immunologist,fraud_Durgan-Auer,0
+2019-05-22 03:59:01,misc_net,3.47,VT,South Londonderry,M,Scientific laboratory technician,fraud_Kuphal-Predovic,0
+2020-01-18 03:05:20,grocery_pos,188.94,AL,Mobile,F,"Surveyor, land/geomatics","fraud_Schultz, Simonis and Little",0
+2020-01-29 12:51:06,shopping_net,2.84,ND,Reynolds,F,Visual merchandiser,"fraud_Towne, Greenholt and Koepp",0
+2020-05-14 23:53:30,personal_care,20.06,PA,Mc Veytown,M,Nutritional therapist,fraud_Marvin-Lind,0
+2019-07-29 05:02:07,gas_transport,43.86,AZ,Parks,M,"Geologist, engineering",fraud_Friesen-D'Amore,0
+2019-02-14 22:01:25,home,6.55,PA,Keisterville,F,Systems developer,fraud_Reilly LLC,0
+2020-05-17 22:01:43,home,153.33,KS,De Soto,F,Chief Executive Officer,"fraud_Prosacco, Kreiger and Kovacek",0
+2020-03-08 11:08:38,entertainment,25.58,MS,Pearlington,M,"Therapist, occupational",fraud_Brown-Greenholt,0
+2019-01-22 10:07:45,shopping_pos,913.75,FL,Sebring,F,Environmental consultant,fraud_Dooley Inc,1
+2019-04-30 09:28:40,misc_net,8.39,PA,North Washington,F,Patent attorney,"fraud_Parisian, Schiller and Altenwerth",0
+2020-01-26 04:12:40,grocery_pos,151.01,CO,Meredith,F,Public relations account executive,fraud_Bradtke PLC,0
+2019-01-13 18:38:39,travel,1.08,NM,Espanola,M,Historic buildings inspector/conservation officer,fraud_Treutel-King,0
+2020-02-09 05:06:53,gas_transport,50.59,MN,Stanchfield,F,"Lecturer, further education",fraud_Bernhard Inc,0
+2020-01-16 03:08:44,misc_pos,60.64,OH,Clay Center,F,Insurance underwriter,"fraud_Wintheiser, Dietrich and Schimmel",0
+2019-08-05 11:10:42,misc_net,1.8,NM,Red River,F,"Surveyor, land/geomatics",fraud_Block-Parisian,0
+2019-07-23 06:56:22,gas_transport,63.6,AL,Woodville,M,"Editor, commissioning",fraud_Rodriguez Group,0
+2019-01-28 10:29:26,grocery_net,19.7,NY,Hudson,M,Travel agency manager,"fraud_Rutherford, Homenick and Bergstrom",0
+2020-03-16 18:46:30,shopping_net,1583.71,WI,New Holstein,M,Child psychotherapist,"fraud_Kihn, Abernathy and Douglas",0
+2019-08-18 13:33:21,kids_pets,72.48,PA,Corsica,F,Maintenance engineer,fraud_Windler LLC,0
+2020-01-11 23:49:31,shopping_pos,6.25,TX,Kilgore,F,Multimedia programmer,fraud_Kuhn LLC,0
+2019-09-06 22:34:53,kids_pets,283.42,MA,Lawrence,M,Geoscientist,fraud_Bernier and Sons,0
+2020-05-15 13:55:10,kids_pets,80.87,KY,Irvine,F,"Editor, magazine features",fraud_Bogisich-Weimann,0
+2019-06-08 12:18:18,food_dining,35.75,TX,Marathon,F,Lexicographer,fraud_Powlowski-Weimann,0
+2020-03-12 07:52:23,gas_transport,64.53,FL,Titusville,M,Set designer,fraud_Bernhard Inc,0
+2020-04-30 14:49:23,kids_pets,70.58,MO,Kansas City,F,Counsellor,"fraud_Metz, Russel and Metz",0
+2020-05-10 15:15:21,home,42.58,NC,Pelham,M,Insurance underwriter,fraud_Skiles LLC,0
+2020-02-16 09:22:19,shopping_pos,13.02,IL,Putnam,F,"Presenter, broadcasting","fraud_Roob, Conn and Tremblay",0
+2020-04-28 12:15:32,health_fitness,8.06,IL,Pembroke Township,F,"Psychotherapist, child",fraud_Fritsch and Sons,0
+2020-03-24 22:47:15,health_fitness,48.16,WV,Union,M,Chartered public finance accountant,fraud_Schroeder Group,0
+2020-06-07 14:50:51,kids_pets,62.33,IA,Alton,M,"Engineer, land",fraud_Bode-Rempel,0
+2019-07-23 14:45:51,misc_pos,14.89,NC,Wilmington,F,English as a second language teacher,"fraud_Boehm, Predovic and Reinger",0
+2019-05-06 03:36:02,gas_transport,38.9,OH,Randolph,F,Mechanical engineer,fraud_Conroy-Cruickshank,0
+2019-01-08 04:52:09,misc_pos,9.36,WV,Tallmansville,M,Accounting technician,fraud_McDermott-Rice,0
+2019-01-20 23:03:48,misc_pos,4.83,MN,Lonsdale,M,Chief Strategy Officer,fraud_Balistreri-Nader,0
+2020-04-08 18:25:26,entertainment,53.02,NY,Port Gibson,F,Database administrator,fraud_Reichel Inc,0
+2019-05-20 01:34:17,grocery_pos,99.96,NC,Pelham,M,Insurance underwriter,"fraud_Kovacek, Dibbert and Ondricka",0
+2019-06-17 11:20:11,food_dining,71.31,GA,Darien,F,Tax adviser,"fraud_Langosh, Wintheiser and Hyatt",0
+2019-08-12 15:06:42,kids_pets,12.08,IA,Avoca,F,Engineering geologist,"fraud_Hauck, Dietrich and Funk",0
+2019-12-27 09:44:34,grocery_pos,178.21,PA,Cressona,F,Ecologist,fraud_Deckow-O'Conner,0
+2019-11-17 20:45:37,personal_care,5.89,NJ,Plainfield,F,Leisure centre manager,fraud_Bins-Howell,0
+2019-12-17 02:29:58,grocery_pos,307.97,TX,Humble,M,Tax adviser,fraud_Schamberger-O'Keefe,1
+2019-06-23 20:33:59,shopping_pos,3.96,NC,Fayetteville,M,"Scientist, research (maths)","fraud_Bahringer, Schoen and Corkery",0
+2020-03-31 12:03:12,home,16.37,CT,East Canaan,F,Comptroller,fraud_Botsford PLC,0
+2020-06-01 23:58:50,health_fitness,41.86,AR,Haynes,F,"Programmer, applications",fraud_Ziemann-Waters,0
+2019-01-23 12:49:16,home,34.39,KY,Stephensport,F,Chartered public finance accountant,"fraud_Denesik, Powlowski and Pouros",0
+2020-06-09 20:09:53,health_fitness,71.39,IL,Tower Hill,M,Radio broadcast assistant,fraud_Thompson-Gleason,0
+2020-06-05 10:11:31,gas_transport,50.81,PA,Mc Veytown,M,Nutritional therapist,"fraud_Streich, Hansen and Veum",0
+2019-12-24 18:46:35,entertainment,24.49,CA,Smith River,F,Web designer,"fraud_Parker, Nolan and Trantow",0
+2019-08-04 15:22:42,home,59.79,KY,Louisville,F,Engineering geologist,fraud_Gerhold LLC,0
+2019-07-15 09:42:31,gas_transport,73.1,UT,Moab,M,Location manager,"fraud_Connelly, Reichert and Fritsch",0
+2020-03-17 05:40:05,misc_pos,9.74,CA,Claremont,M,Wellsite geologist,fraud_Herzog Ltd,0
+2019-12-27 19:13:16,shopping_pos,38.7,NY,Tupper Lake,F,Chartered loss adjuster,fraud_Pouros-Haag,0
+2020-04-21 12:40:49,shopping_pos,5.29,PA,Uledi,F,Tree surgeon,fraud_Jewess LLC,0
+2019-07-15 20:41:08,home,19.37,NC,Bailey,F,Call centre manager,"fraud_O'Connell, Botsford and Hand",0
+2020-04-20 06:04:31,gas_transport,44.38,AR,Cord,M,"Designer, ceramics/pottery",fraud_Bins-Rice,0
+2019-04-16 18:20:41,health_fitness,23.73,KY,Mallie,M,Facilities manager,fraud_Dare-Gibson,0
+2019-04-22 03:09:26,gas_transport,50.45,SD,Barnard,F,Systems developer,fraud_Sporer Inc,0
+2019-07-14 17:24:14,personal_care,23.88,IN,North Judson,M,"Doctor, general practice",fraud_Langworth LLC,0
+2019-12-08 18:39:57,kids_pets,49.64,IN,Andrews,M,Retail banker,fraud_Waelchi-Wolf,0
+2019-04-29 11:00:57,misc_pos,2.27,MS,Ridgeland,F,"Scientist, clinical (histocompatibility and immunogenetics)",fraud_Reynolds-Schinner,0
+2020-04-06 02:34:11,food_dining,52.47,AL,Hartford,M,Jewellery designer,fraud_O'Hara-Wilderman,0
+2019-10-29 11:14:02,grocery_pos,182.44,LA,Baton Rouge,F,"Designer, furniture",fraud_Padberg-Welch,0
+2019-02-04 15:02:26,shopping_pos,2.22,MS,Sunflower,F,"Education officer, community",fraud_Jacobi and Sons,0
+2019-06-19 13:36:13,travel,1.42,MI,Manistique,F,Trade mark attorney,fraud_Turner LLC,0
+2019-12-21 07:50:23,misc_pos,28.47,MO,Blairstown,F,Agricultural consultant,fraud_Herzog Ltd,0
+2019-02-10 18:04:46,home,6.53,CA,Norwalk,M,Firefighter,fraud_Berge-Ullrich,0
+2020-05-02 06:53:22,food_dining,219.59,IN,Greenwood,F,Financial adviser,fraud_Will Ltd,0
+2019-05-26 14:25:25,home,3.17,CO,Littleton,F,Water engineer,"fraud_Cole, Hills and Jewess",0
+2020-04-19 20:44:35,shopping_net,8.09,TX,Quanah,M,"Librarian, public",fraud_Schmidt and Sons,0
+2019-07-28 07:18:08,shopping_net,9.32,NY,West Henrietta,F,"Teacher, primary school","fraud_Schmeler, Bashirian and Price",0
+2019-10-21 15:17:59,misc_net,1.6,ME,Bowdoin,M,"Engineer, electronics",fraud_Mante Group,0
+2019-08-17 15:23:31,home,24.6,OH,Canton,M,Building control surveyor,fraud_Skiles LLC,0
+2019-04-29 01:16:45,misc_net,346.31,WY,Freedom,M,"Education officer, museum",fraud_Dooley-Thompson,0
+2019-07-06 03:56:47,misc_net,17.54,FL,Lakeland,F,Clothing/textile technologist,"fraud_Tillman, Fritsch and Schmitt",0
+2019-10-08 01:35:17,gas_transport,73.52,AK,Wales,M,"Administrator, education","fraud_Jenkins, Hauck and Friesen",0
+2019-12-01 20:33:55,health_fitness,40.89,IL,Wilmette,M,Trade mark attorney,fraud_Hirthe-Beier,0
+2019-03-03 17:09:07,shopping_net,7.76,NC,Fayetteville,M,"Scientist, research (maths)","fraud_Langworth, Boehm and Gulgowski",0
+2019-03-15 04:37:28,misc_net,188.36,CO,Littleton,F,Water engineer,fraud_Donnelly PLC,0
+2019-12-25 22:32:15,misc_pos,24.75,CA,Oakland,M,Barista,"fraud_Wiza, Schaden and Stark",0
+2020-05-19 10:33:28,gas_transport,50.22,LA,Metairie,F,Advertising account planner,fraud_Prohaska-Murray,0
+2019-12-06 22:48:48,personal_care,5.27,IL,Lomax,F,Environmental consultant,fraud_Osinski Inc,0
+2019-05-12 13:34:03,health_fitness,29.83,PA,Lawn,F,Special educational needs teacher,fraud_Fadel-Hilpert,0
+2020-03-28 13:39:19,health_fitness,31.67,KY,Mallie,M,Facilities manager,fraud_Hirthe-Beier,0
+2019-11-30 21:19:50,home,17.67,NC,Wilmington,F,English as a second language teacher,"fraud_Witting, Beer and Ernser",0
+2019-09-03 22:16:07,home,61.56,MO,Luray,M,Town planner,fraud_Beier and Sons,0
+2019-09-15 23:50:47,entertainment,105.42,MT,Sula,M,"Therapist, horticultural",fraud_Dibbert and Sons,0
+2020-05-06 11:47:11,gas_transport,76.9,MT,Bridger,M,Chartered loss adjuster,fraud_Harris Inc,0
+2019-11-24 16:30:33,shopping_pos,125.64,OH,Mount Saint Joseph,M,Exhibition designer,fraud_Hermann and Sons,0
+2019-12-09 14:57:48,travel,1.7,OH,Milford,F,Hospital doctor,"fraud_Kilback, Nitzsche and Leffler",0
+2020-04-13 13:30:46,health_fitness,17.09,NC,Andrews,M,Retail buyer,fraud_Cormier LLC,0
+2019-10-06 22:26:39,kids_pets,30.85,TX,Roma,F,IT trainer,fraud_Bode-Schuster,0
+2019-12-29 21:03:57,home,4.45,CA,Newhall,F,Health physicist,fraud_Stark-Koss,0
+2019-08-08 23:25:49,personal_care,74.77,FL,Saint James City,M,Sport and exercise psychologist,fraud_Erdman-Schaden,0
+2019-05-22 14:34:23,shopping_net,3.15,SC,Bradley,F,Research scientist (physical sciences),"fraud_Reichert, Shanahan and Hayes",0
+2019-09-28 10:42:06,grocery_pos,134.35,OH,Kirby,F,Private music teacher,"fraud_Moen, Reinger and Murphy",0
+2019-03-15 23:37:49,kids_pets,142.67,CA,Laguna Hills,F,Sales executive,fraud_Hoppe-Parisian,0
+2019-11-17 05:47:55,misc_pos,2.22,CA,Port Costa,M,Armed forces training and education officer,fraud_Herman Inc,0
+2019-08-14 20:50:46,personal_care,49.53,ID,Meridian,F,Intelligence analyst,fraud_Zulauf LLC,0
+2019-09-15 20:50:58,misc_pos,121.08,TX,Thrall,F,Press sub,fraud_Halvorson Group,0
+2019-08-14 18:58:03,shopping_pos,7.82,SC,Arcadia,F,Animal technologist,fraud_Dooley Inc,0
+2020-05-17 10:08:46,misc_pos,5.09,KY,Pewee Valley,M,Stage manager,fraud_Eichmann-Russel,0
+2019-02-12 03:13:14,grocery_pos,96.36,NM,Red River,F,"Surveyor, land/geomatics",fraud_Bogisich Inc,0
+2019-08-06 02:41:18,food_dining,60.03,PA,Harmony,M,Bookseller,fraud_Zboncak LLC,0
+2020-06-14 22:25:23,kids_pets,43.93,WY,Freedom,M,"Education officer, museum",fraud_Cartwright PLC,0
+2020-04-18 17:48:29,food_dining,102.76,TN,Clarksville,F,Pathologist,"fraud_Langosh, Wintheiser and Hyatt",0
+2020-01-13 10:17:25,gas_transport,70.71,NY,Oak Hill,M,Glass blower/designer,"fraud_Raynor, Reinger and Hagenes",0
+2019-04-08 16:13:31,kids_pets,4.82,TX,Houston,F,Animator,fraud_Ullrich Ltd,0
+2019-12-13 02:24:01,shopping_net,83.72,OK,Burns Flat,M,Politician's assistant,"fraud_Zboncak, Rowe and Murazik",0
+2019-07-27 18:06:08,kids_pets,54.93,AR,Norman,M,Magazine features editor,"fraud_Metz, Russel and Metz",0
+2019-06-30 09:10:22,entertainment,9.87,ID,Spirit Lake,F,Production manager,fraud_Kilback and Sons,0
+2019-01-05 17:14:18,entertainment,71.98,NY,Shelter Island,M,Clinical biochemist,fraud_Heaney-Marquardt,0
+2019-04-20 14:25:36,entertainment,61.85,MO,Kissee Mills,M,"Engineer, agricultural",fraud_Bins-Tillman,0
+2020-01-11 18:14:45,health_fitness,74.19,ND,Christine,M,Television floor manager,"fraud_Mante, Luettgen and Hackett",0
+2019-10-28 12:13:40,misc_net,35.87,KY,Smiths Grove,F,"Therapist, sports",fraud_Zemlak Group,0
+2020-05-31 01:17:59,grocery_pos,86.9,AL,Phil Campbell,F,"Engineer, aeronautical",fraud_Deckow-O'Conner,0
+2020-03-22 09:05:00,misc_net,1.22,CT,Plymouth,F,Herpetologist,"fraud_Stehr, Jewess and Schimmel",0
+2020-06-01 00:13:34,grocery_pos,193.5,SC,Prosperity,F,Archaeologist,fraud_Kuhic Inc,0
+2020-01-27 11:28:42,entertainment,66.2,CA,San Diego,M,Chartered public finance accountant,fraud_Kilback and Sons,0
+2019-09-04 21:21:15,kids_pets,35.95,TX,O Brien,F,Warden/ranger,"fraud_Yost, Schamberger and Windler",0
+2020-06-09 00:29:40,shopping_net,148.85,TX,Holliday,M,Chief Technology Officer,fraud_Lemke-Gutmann,0
+2019-02-18 09:36:42,grocery_pos,93.84,MI,Elk Rapids,M,Chief Financial Officer,"fraud_Goldner, Kovacek and Abbott",0
+2019-12-13 01:32:42,shopping_net,8.53,IN,North Judson,M,"Doctor, general practice",fraud_Auer-West,0
+2019-12-23 22:48:49,entertainment,85.01,IN,Leo,M,Biomedical engineer,fraud_Morissette LLC,0
+2019-08-04 08:17:44,gas_transport,51.23,TX,Dallas,M,Television camera operator,fraud_Mraz-Herzog,0
+2019-05-21 09:32:26,misc_net,213.79,PA,Dunlevy,F,Mining engineer,"fraud_Kerluke, Kertzmann and Wiza",0
+2019-03-03 14:02:12,shopping_pos,3.38,VA,Drakes Branch,F,Energy engineer,fraud_Friesen Inc,0
+2019-08-27 11:19:39,grocery_pos,134.89,WI,Seneca,M,Quantity surveyor,fraud_Miller-Hauck,0
+2019-04-09 07:17:22,shopping_pos,7.87,MN,Hawley,F,Naval architect,fraud_Botsford Ltd,0
+2019-03-20 12:32:11,kids_pets,19.95,WA,Orient,F,Special educational needs teacher,"fraud_Weber, Thiel and Hammes",0
+2019-12-15 07:50:33,shopping_pos,3.13,TX,Lolita,M,Archaeologist,fraud_Jacobi and Sons,0
+2019-04-08 19:16:21,food_dining,27.28,MI,Goodrich,F,Learning disability nurse,"fraud_Konopelski, Schneider and Hartmann",0
+2019-12-28 09:02:14,misc_net,2.67,NC,Creedmoor,F,Chief Strategy Officer,fraud_Kerluke Inc,0
+2020-03-29 23:38:42,home,93.69,KS,Dresden,M,"Librarian, public",fraud_Reilly LLC,0
+2019-06-01 19:21:23,misc_pos,7.41,MN,Bigelow,F,Economist,"fraud_Wintheiser, Dietrich and Schimmel",0
+2019-07-02 02:20:45,grocery_pos,88.58,OH,Warren,F,Magazine features editor,"fraud_Goldner, Kovacek and Abbott",0
+2019-12-16 04:38:27,gas_transport,86.43,WY,Riverton,M,"Lecturer, higher education",fraud_Kutch LLC,0
+2019-06-09 13:31:09,food_dining,52.6,OH,Paulding,M,Secondary school teacher,fraud_Kihn-Fritsch,0
+2020-05-26 19:46:53,kids_pets,21.96,IL,Payson,M,Exhibition designer,fraud_Brown Inc,0
+2019-04-28 12:30:23,kids_pets,26.81,MI,Mount Clemens,F,"Psychologist, sport and exercise","fraud_Romaguera, Wehner and Tromp",0
+2020-04-10 05:23:15,gas_transport,66.82,CO,Dumont,M,Mental health nurse,fraud_Brekke and Sons,0
+2019-06-05 22:48:29,shopping_pos,8.4,IA,Birmingham,F,Camera operator,fraud_Beier-Hyatt,0
+2019-11-12 01:37:13,misc_pos,3.75,NY,Rock Tavern,M,Building surveyor,fraud_Eichmann-Russel,0
+2020-03-22 19:49:14,food_dining,56.08,ND,Christine,M,Television floor manager,fraud_Daugherty-Thompson,0
+2020-03-02 01:07:38,grocery_pos,327.98,MS,Coffeeville,M,Financial trader,fraud_DuBuque LLC,1
+2020-04-06 21:50:23,kids_pets,134.58,MD,Gaithersburg,F,Clinical biochemist,fraud_Weimann-Lockman,0
+2019-12-09 23:37:11,health_fitness,73.04,AR,Cherokee Village,F,Pharmacologist,"fraud_Haley, Batz and Auer",0
+2019-12-17 17:36:27,home,12.1,TX,San Antonio,M,Exhibition designer,fraud_Kutch-Ferry,0
+2019-12-22 22:14:42,shopping_pos,1.38,NY,Hudson,M,Travel agency manager,fraud_Stoltenberg-Beatty,0
+2020-03-30 07:05:41,grocery_pos,109.0,FL,Port Charlotte,M,Quantity surveyor,fraud_Auer-Mosciski,0
+2019-05-18 19:11:33,shopping_pos,6.5,VT,Hinesburg,F,Claims inspector/assessor,fraud_Pouros-Conroy,0
+2020-04-28 12:55:42,personal_care,66.97,PA,Fenelton,M,Communications engineer,fraud_Crooks and Sons,0
+2019-06-11 21:44:33,personal_care,39.11,OR,Gardiner,F,"Engineer, maintenance",fraud_Yost-Rogahn,0
+2019-08-26 00:02:18,gas_transport,47.07,IA,Rockwell,F,"Scientist, audiological","fraud_Reilly, Heaney and Cole",0
+2019-07-26 05:46:37,shopping_pos,137.95,MN,Lamberton,M,Land/geomatics surveyor,fraud_Torphy-Goyette,0
+2019-06-28 10:50:36,shopping_pos,3.91,IL,Payson,M,Exhibition designer,fraud_Botsford Ltd,0
+2020-01-15 14:30:02,shopping_net,4.97,IN,Oolitic,F,Counsellor,"fraud_Baumbach, Feeney and Morar",0
+2019-09-20 20:43:36,shopping_net,7.83,FL,Titusville,M,Set designer,"fraud_Baumbach, Feeney and Morar",0
+2019-08-16 14:34:19,home,43.2,ME,East Andover,F,Animal nutritionist,fraud_Medhurst Inc,0
+2019-12-15 16:46:05,shopping_pos,262.6,WY,Laramie,F,"Pilot, airline",fraud_Botsford Ltd,0
+2019-07-17 05:09:37,grocery_pos,70.72,OK,Oklahoma City,M,Advertising copywriter,fraud_Bailey-Morar,0
+2019-09-18 12:28:09,health_fitness,56.68,FL,Saint Petersburg,M,"Engineer, land",fraud_Schumm PLC,0
+2020-04-11 13:26:08,personal_care,41.48,CT,Higganum,F,"Librarian, academic",fraud_Schmeler-Howe,0
+2019-04-30 04:24:31,misc_pos,11.87,PA,Morrisdale,F,Dispensing optician,fraud_Howe Ltd,0
+2020-03-03 12:25:20,kids_pets,78.23,KY,Rochester,F,"Development worker, international aid",fraud_Daugherty LLC,0
+2019-12-29 16:17:22,health_fitness,21.12,UT,Woods Cross,F,Insurance broker,fraud_Dare-Gibson,0
+2020-01-17 03:27:38,grocery_pos,115.86,MI,Afton,M,Technical brewer,fraud_Heidenreich PLC,0
+2019-08-21 15:49:27,health_fitness,52.59,TX,Altair,F,"Editor, film/video",fraud_Jacobi Inc,0
+2020-05-26 21:01:42,kids_pets,3.39,IN,Prairie Creek,M,Materials engineer,fraud_Brown Inc,0
+2019-04-29 23:35:52,home,78.34,GA,Milner,M,Field seismologist,fraud_Beier and Sons,0
+2019-07-29 05:49:31,shopping_pos,4.43,ND,Noonan,F,Industrial/product designer,fraud_Conroy Ltd,0
+2020-01-11 22:00:55,travel,9.18,AR,Texarkana,F,Surgeon,"fraud_Champlin, Rolfson and Connelly",1
+2019-02-11 00:21:54,gas_transport,77.68,WI,Bagley,F,Risk analyst,fraud_Emard Inc,0
+2020-03-09 13:37:16,food_dining,97.24,TX,Aledo,M,Optometrist,"fraud_Langosh, Wintheiser and Hyatt",0
+2020-01-20 21:23:17,travel,7.16,CA,Santa Monica,F,"Civil engineer, contracting",fraud_Reichert-Weissnat,0
+2020-05-18 15:06:49,health_fitness,123.96,AZ,Phoenix,F,Counselling psychologist,"fraud_Torp, Muller and Borer",0
+2019-11-23 10:09:22,shopping_net,123.28,IL,Mc Nabb,M,Audiological scientist,fraud_Rempel Inc,0
+2019-04-21 17:45:20,kids_pets,26.7,OK,Tulsa,F,"Teacher, special educational needs",fraud_Little Ltd,0
+2019-12-09 13:58:08,travel,4.05,MS,Duncan,F,Trading standards officer,"fraud_Eichmann, Hayes and Treutel",0
+2019-09-02 16:23:23,shopping_net,7.05,WA,Burbank,F,Musician,"fraud_Heathcote, Yost and Kertzmann",0
+2019-07-31 23:48:19,home,248.51,IL,Moro,F,"Buyer, industrial","fraud_O'Connell, Botsford and Hand",0
+2020-03-15 00:31:50,misc_net,1.57,TX,San Antonio,M,Exhibition designer,fraud_Brown PLC,0
+2019-07-13 02:01:04,grocery_net,48.77,SD,Deadwood,M,Multimedia programmer,fraud_Dicki Ltd,0
+2020-06-18 21:08:50,home,106.93,UT,Moab,M,Location manager,"fraud_Koss, Hansen and Lueilwitz",0
+2019-01-28 10:15:44,grocery_net,63.8,OK,Mountain Park,F,Research scientist (life sciences),"fraud_Swift, Bradtke and Marquardt",0
+2019-01-20 15:39:46,misc_net,11.95,ND,Michigan,F,"Producer, television/film/video",fraud_Ruecker Group,0
+2019-12-21 10:03:53,grocery_net,44.58,MI,Pointe Aux Pins,M,Electrical engineer,"fraud_Tromp, Kerluke and Glover",0
+2019-05-04 16:58:59,shopping_pos,7.89,VA,Alexandria,M,"Scientist, biomedical",fraud_Turner and Sons,0
+2020-03-26 14:57:11,shopping_net,6.69,TX,Sherman,F,Systems developer,"fraud_Romaguera, Cruickshank and Greenholt",0
+2019-12-05 18:41:55,home,41.26,VA,Lebanon,F,"Teacher, English as a foreign language","fraud_O'Connell, Botsford and Hand",0
+2019-03-30 08:13:30,shopping_pos,155.36,NY,Oriskany Falls,M,"Programmer, multimedia",fraud_Hermann and Sons,0
+2020-01-07 13:11:42,personal_care,107.67,WI,Waupaca,F,"Engineer, civil (contracting)",fraud_Kozey-Kuhlman,0
+2019-03-14 23:33:02,home,72.91,KY,Big Creek,M,"Psychologist, forensic","fraud_O'Connell, Botsford and Hand",0
+2019-11-16 05:10:45,grocery_pos,108.19,ND,Shields,F,Film/video editor,fraud_Kilback LLC,0
+2019-11-18 22:52:50,kids_pets,6.09,TX,Altair,F,"Editor, film/video",fraud_Ullrich Ltd,0
+2020-01-12 13:28:01,kids_pets,130.06,NM,Albuquerque,F,Charity officer,fraud_Hoppe-Parisian,0
+2019-02-04 14:23:22,food_dining,143.12,CA,Napa,F,Airline pilot,fraud_Bahringer-Streich,0
+2019-07-13 13:49:06,kids_pets,2.4,TX,Laredo,M,Video editor,"fraud_Roberts, Daniel and Macejkovic",0
+2019-06-15 06:18:35,food_dining,53.53,NJ,Iselin,F,Emergency planning/management officer,fraud_Zboncak LLC,0
+2020-01-18 12:30:13,home,26.02,FL,Key West,M,Town planner,"fraud_Schiller, Blanda and Johnson",0
+2019-04-09 23:06:51,health_fitness,3.01,AL,Gadsden,F,Ceramics designer,fraud_Greenholt Ltd,0
+2020-05-08 14:39:16,travel,3.73,KS,Wichita,M,Heritage manager,"fraud_Eichmann, Hayes and Treutel",0
+2019-08-12 12:07:14,health_fitness,9.64,CA,Corona,F,Wellsite geologist,fraud_Ziemann-Waters,0
+2019-11-10 12:26:47,entertainment,2.51,TX,Meridian,F,Phytotherapist,"fraud_Schaefer, Fay and Hilll",0
+2019-10-23 12:05:06,shopping_net,6.19,TX,Spring,M,"Education officer, museum",fraud_Predovic Inc,0
+2020-03-17 23:48:00,home,40.59,TX,Roma,F,IT trainer,fraud_Botsford PLC,0
+2019-12-17 05:01:58,grocery_net,45.03,TX,Summerfield,M,Fisheries officer,fraud_Heller-Abshire,0
+2019-06-09 12:58:19,entertainment,10.15,NY,Hudson,M,Travel agency manager,fraud_Douglas-White,0
+2019-09-07 23:06:12,shopping_pos,168.67,SC,Edisto Island,F,"Sales professional, IT",fraud_Jewess LLC,0
+2020-06-09 21:38:42,food_dining,164.91,MI,Oxford,M,Agricultural consultant,fraud_Kuphal-Toy,0
+2019-03-16 09:08:27,gas_transport,86.04,MS,Ridgeland,F,"Scientist, clinical (histocompatibility and immunogenetics)","fraud_Olson, Becker and Koch",0
+2019-05-05 20:28:04,home,87.22,NY,Margaretville,M,Environmental health practitioner,fraud_Schmidt-Larkin,0
+2019-06-29 18:10:22,misc_pos,9.01,TX,Sachse,M,Site engineer,fraud_Stiedemann Inc,0
+2019-01-07 12:21:40,personal_care,3.58,IN,Indianapolis,M,Academic librarian,"fraud_Lubowitz, Terry and Stracke",0
+2019-01-10 02:24:42,gas_transport,77.05,NY,Port Gibson,F,Database administrator,fraud_Koss and Sons,0
+2019-06-27 20:23:25,food_dining,19.95,VA,Ford,F,Chief Operating Officer,fraud_Kilback Group,0
+2019-11-04 13:48:38,home,20.14,OK,Tulsa,F,"Teacher, special educational needs",fraud_White and Sons,0
+2019-06-30 21:17:50,home,191.16,TX,Holliday,M,Chief Technology Officer,fraud_Schmidt-Larkin,0
+2019-05-26 14:15:15,kids_pets,39.61,OK,Clayton,F,Occupational psychologist,fraud_Berge-Hills,0
+2020-04-21 19:54:06,shopping_pos,7.54,PA,Morrisdale,M,Advice worker,fraud_Pagac LLC,0
+2019-01-20 15:18:56,kids_pets,47.02,IA,Elkhart,M,Trading standards officer,"fraud_Dare, Casper and Bartoletti",0
+2020-03-20 11:24:22,grocery_pos,317.1,NJ,West Long Branch,M,Mechanical engineer,"fraud_Osinski, Ledner and Leuschke",1
+2019-07-01 14:07:09,personal_care,41.49,FL,Deltona,F,Commercial horticulturist,fraud_Parker-Kunde,0
+2019-11-02 22:36:52,entertainment,124.17,KS,De Soto,F,Chief Executive Officer,"fraud_Nicolas, Hills and McGlynn",0
+2019-07-28 03:26:37,gas_transport,43.4,AL,Phenix City,F,Chemical engineer,"fraud_Zieme, Bode and Dooley",0
+2019-06-07 19:04:19,personal_care,13.79,KY,Cromona,F,Chief Financial Officer,fraud_Zulauf LLC,0
+2020-06-17 10:30:39,gas_transport,88.49,NJ,Elizabeth,M,Operational researcher,fraud_Brekke and Sons,0
+2019-01-23 01:53:07,gas_transport,57.43,IL,Bonfield,F,Medical secretary,"fraud_Jenkins, Hauck and Friesen",0
+2020-02-11 19:45:01,home,8.33,ND,Shields,F,Film/video editor,fraud_Streich Ltd,0
+2019-11-09 22:45:09,kids_pets,26.34,IL,Pembroke Township,F,"Psychotherapist, child","fraud_Romaguera, Wehner and Tromp",0
+2020-02-05 09:44:27,gas_transport,80.06,NE,Holstein,F,Telecommunications researcher,"fraud_Schaefer, McGlynn and Bosco",0
+2019-05-13 18:42:56,personal_care,52.04,CA,Napa,F,Airline pilot,"fraud_Berge, Kautzer and Harris",0
+2020-05-02 08:23:31,grocery_pos,187.41,WV,White Sulphur Springs,F,Community development worker,fraud_Goodwin-Nitzsche,0
+2019-08-19 03:10:29,shopping_net,95.75,WY,Fort Washakie,M,Freight forwarder,fraud_Gleason-Macejkovic,0
+2020-04-04 14:24:40,kids_pets,138.48,SC,North Augusta,M,Secondary school teacher,fraud_Crona and Sons,0
+2019-02-21 18:01:38,personal_care,27.43,CA,Daly City,F,"Buyer, industrial",fraud_Nader-Maggio,0
+2019-02-02 21:36:03,kids_pets,42.97,MN,Remer,M,Insurance risk surveyor,"fraud_Streich, Rolfson and Wilderman",0
+2019-07-14 13:01:27,kids_pets,16.17,MT,Heart Butte,F,Water engineer,fraud_Brown Inc,0
+2020-06-20 18:08:47,personal_care,72.01,ME,Brooklin,M,"Loss adjuster, chartered",fraud_Marvin-Lind,0
+2019-05-02 20:39:32,shopping_net,218.12,CO,Arvada,M,Hotel manager,"fraud_Little, Gutmann and Lynch",0
+2019-12-26 15:05:49,shopping_net,8.08,OK,Mountain Park,F,Research scientist (life sciences),fraud_Stamm-Witting,0
+2019-11-22 15:27:43,food_dining,29.12,MO,Rocky Mount,F,Tax inspector,fraud_Volkman PLC,0
+2019-02-15 23:11:22,kids_pets,6.69,NY,Altona,F,"Surveyor, land/geomatics",fraud_Rau-Robel,0
+2019-07-13 20:58:30,shopping_pos,9.68,PA,Morrisdale,M,Advice worker,fraud_Lynch Ltd,0
+2020-05-22 20:05:59,home,136.65,TX,Karnack,F,Chiropodist,fraud_Eichmann-Kilback,0
+2019-12-30 20:39:57,food_dining,41.92,WI,New Holstein,M,Child psychotherapist,fraud_Bahringer-Streich,0
+2019-01-29 15:50:57,entertainment,100.12,WA,Orient,F,Special educational needs teacher,fraud_Goldner-Lemke,0
+2020-01-09 20:43:39,travel,7.58,NY,Belfast,M,Mechanical engineer,fraud_Tillman LLC,0
+2020-06-04 22:33:59,personal_care,81.65,VA,Doe Hill,M,Dance movement psychotherapist,fraud_Rolfson-Kunde,0
+2019-10-14 01:04:17,grocery_pos,89.38,AL,Bessemer,M,Radio broadcast assistant,fraud_Schamberger-O'Keefe,0
+2019-11-12 12:02:57,entertainment,78.56,IL,Bonfield,F,Medical secretary,fraud_Abshire PLC,0
+2019-10-22 02:59:50,grocery_net,99.84,FL,Loxahatchee,F,Paramedic,fraud_Morar Inc,0
+2019-10-15 08:24:47,grocery_pos,95.58,SC,New Ellenton,F,Biomedical scientist,fraud_Stracke-Lemke,0
+2020-04-15 07:57:24,shopping_pos,8.45,OR,Scotts Mills,F,"Engineer, petroleum",fraud_Kuhn LLC,0
+2020-05-15 12:23:30,home,20.52,AR,Walnut Ridge,F,"Engineer, control and instrumentation",fraud_Gerhold LLC,0
+2019-07-09 23:04:51,shopping_net,2.64,MN,Sauk Rapids,M,Hydrographic surveyor,fraud_Fisher Inc,0
+2020-03-03 13:45:07,home,111.92,NJ,Monmouth Beach,M,Health promotion specialist,"fraud_Bahringer, Bergnaum and Quitzon",0
+2019-03-18 23:59:25,entertainment,10.95,GA,Surrency,F,"Engineer, technical sales",fraud_Kling-Ernser,0
+2019-07-11 14:56:12,food_dining,73.03,MT,Bridger,M,Chartered loss adjuster,"fraud_Feil, Hilpert and Koss",0
+2020-06-16 17:10:57,personal_care,33.05,MI,Detroit,M,Trading standards officer,fraud_Homenick LLC,0
+2019-10-05 03:50:30,gas_transport,7.65,NY,Oakdale,M,"Biochemist, clinical",fraud_Marks Inc,1
+2019-04-14 15:26:48,kids_pets,41.27,ND,Noonan,F,Industrial/product designer,fraud_Gleason and Sons,0
+2019-03-17 23:33:41,entertainment,182.77,IN,Churubusco,M,"Research officer, trade union",fraud_Abshire PLC,0
+2019-02-05 18:37:42,kids_pets,18.3,MI,Romulus,M,Police officer,fraud_Hilpert-Conroy,0
+2019-02-26 14:01:30,food_dining,3.82,SC,Edisto Island,F,"Sales professional, IT","fraud_Konopelski, Schneider and Hartmann",0
+2019-04-18 10:21:26,grocery_pos,113.37,OH,Kirby,F,Private music teacher,fraud_Stracke-Lemke,0
+2019-05-02 05:19:03,shopping_pos,124.78,MI,Pointe Aux Pins,M,Electrical engineer,fraud_Kihn Inc,0
+2019-10-06 17:57:16,kids_pets,187.85,WY,Manville,F,Educational psychologist,fraud_Schoen-Quigley,0
+2019-12-21 14:56:54,shopping_pos,26.28,FL,Key West,M,Town planner,fraud_Lynch Ltd,0
+2019-12-14 02:49:51,misc_net,143.17,FL,Naples,F,"Pilot, airline",fraud_Durgan-Auer,0
+2019-10-06 05:28:02,misc_net,1.74,MN,Halma,M,"Embryologist, clinical","fraud_Parisian, Schiller and Altenwerth",0
+2019-12-09 08:43:40,shopping_pos,4.92,AL,Gadsden,F,Ceramics designer,"fraud_Bernhard, Grant and Langworth",0
+2019-04-19 07:48:17,misc_pos,34.65,NY,Oak Hill,M,Glass blower/designer,fraud_Roberts-Beahan,0
+2019-07-07 17:56:52,kids_pets,88.06,NH,North Haverhill,M,Structural engineer,fraud_Berge-Hills,0
+2019-11-03 13:16:59,home,117.34,LA,Fordoche,F,Community education officer,fraud_Kutch-Ferry,0
+2020-05-31 02:23:26,grocery_pos,215.31,MI,Manistique,F,Trade mark attorney,fraud_Doyle Ltd,0
+2019-10-14 09:45:41,gas_transport,61.71,NY,Brownville,F,"Producer, radio","fraud_Zieme, Bode and Dooley",0
+2020-06-18 03:02:40,gas_transport,70.65,IA,Whittemore,M,Optometrist,fraud_Friesen-Stamm,0
+2019-04-07 00:22:05,grocery_pos,89.5,NE,North Loup,F,"Nurse, children's",fraud_Hackett-Lueilwitz,0
+2019-10-31 14:12:24,home,20.08,OK,Mountain Park,F,Research scientist (life sciences),"fraud_Witting, Beer and Ernser",0
+2020-03-13 14:37:46,personal_care,30.96,TX,Prairie Hill,F,Barrister,fraud_Monahan-Morar,0
+2020-02-03 20:11:31,travel,1.89,TX,Pecos,F,"Merchandiser, retail","fraud_Eichmann, Hayes and Treutel",0
+2020-03-31 19:22:53,home,1.36,OH,Randolph,F,Mechanical engineer,fraud_Skiles LLC,0
+2020-01-10 20:27:50,shopping_pos,2.87,VA,Drakes Branch,F,Energy engineer,fraud_Pacocha-Bauch,0
+2020-05-08 11:41:51,grocery_pos,35.34,AL,Grant,M,Curator,fraud_Kutch and Sons,0
+2020-04-15 03:23:34,misc_net,48.55,PA,Armagh,F,Early years teacher,"fraud_Rippin, Kub and Mann",0
+2020-01-05 16:41:07,food_dining,64.47,SC,Johns Island,M,Materials engineer,fraud_Zboncak Ltd,0
+2019-12-16 06:46:03,shopping_pos,270.15,OK,Amorita,M,Barrister's clerk,"fraud_Watsica, Haag and Considine",0
+2020-03-24 06:09:59,food_dining,118.2,NC,Bailey,F,Call centre manager,fraud_Kuphal-Toy,0
+2019-08-01 23:10:51,entertainment,70.72,WI,Cazenovia,M,Occupational hygienist,fraud_Thiel-Thiel,0
+2019-04-03 03:16:44,misc_net,3.85,SC,Cross,M,Occupational hygienist,fraud_Huel-Langworth,0
+2020-03-29 20:15:51,entertainment,33.37,MN,Stanchfield,F,"Lecturer, further education","fraud_Effertz, Welch and Schowalter",0
+2019-11-14 09:41:19,food_dining,37.1,ME,Scarborough,M,Make,"fraud_Hagenes, Kohler and Hoppe",0
+2020-05-30 21:49:22,personal_care,8.63,SD,Fulton,F,Financial adviser,fraud_Friesen-Ortiz,0
+2019-02-12 19:11:49,entertainment,41.35,MO,Blairstown,F,Agricultural consultant,fraud_Dibbert and Sons,0
+2019-09-20 09:01:24,shopping_net,106.06,ND,Christine,M,Television floor manager,fraud_Kozey-Boehm,0
+2019-08-16 02:23:24,grocery_net,49.97,KS,De Soto,F,Chief Executive Officer,fraud_Paucek-Wiza,0
+2019-09-23 10:40:25,grocery_net,28.22,IN,Indianapolis,F,Firefighter,"fraud_Adams, Kovacek and Kuhlman",0
+2019-07-22 15:08:05,home,74.81,WV,Ronceverte,F,Statistician,fraud_White and Sons,0
+2019-12-10 01:41:21,grocery_pos,200.26,NY,West Sayville,F,Film/video editor,"fraud_Kovacek, Dibbert and Ondricka",0
+2019-06-24 04:15:48,grocery_pos,74.27,HI,Honokaa,M,Physiotherapist,fraud_Cole PLC,0
+2019-09-08 23:24:21,personal_care,5.58,NY,Brownville,F,"Producer, radio",fraud_Baumbach Ltd,0
+2019-01-04 16:58:28,shopping_net,43.98,OH,Amanda,F,Farm manager,"fraud_Mosciski, Ziemann and Farrell",0
+2019-07-04 20:23:38,health_fitness,27.01,OR,Lowell,F,Systems analyst,"fraud_Mueller, Gerhold and Mueller",0
+2019-07-20 08:10:03,grocery_pos,137.34,MA,Barnstable,F,Counselling psychologist,fraud_Kilback LLC,0
+2019-12-03 07:04:03,gas_transport,73.97,MD,Manchester,F,Clinical research associate,"fraud_Connelly, Reichert and Fritsch",0
+2019-03-24 18:33:56,shopping_pos,2.25,VA,Glade Spring,M,Clinical psychologist,fraud_Metz-Boehm,0
+2019-03-11 18:33:33,health_fitness,66.45,VT,Brandon,F,"Scientist, marine",fraud_Torphy-Kertzmann,0
+2019-05-19 19:33:56,travel,4.72,OH,Diamond,F,"Engineer, biomedical","fraud_Hahn, Douglas and Schowalter",0
+2020-01-27 21:47:17,food_dining,8.95,NY,Barneveld,F,IT trainer,"fraud_Lakin, Ferry and Beatty",0
+2019-09-04 11:36:32,grocery_pos,72.3,NJ,Ogdensburg,F,Senior tax professional/tax inspector,fraud_Auer-Mosciski,0
+2019-01-22 07:48:34,grocery_net,38.21,AL,Birmingham,M,Musician,fraud_Collier Inc,0
+2020-06-02 14:42:43,shopping_net,279.92,TX,Roma,F,IT trainer,"fraud_Stanton, Jakubowski and Baumbach",0
+2019-10-03 22:48:20,home,12.86,WV,Henderson,F,Building services engineer,fraud_Stark-Koss,0
+2019-06-09 21:24:56,health_fitness,15.03,MI,Elberta,F,"Exhibitions officer, museum/gallery",fraud_Fadel Inc,0
+2019-01-02 09:57:39,gas_transport,105.34,CO,Pueblo,M,Further education lecturer,fraud_Parisian and Sons,0
+2019-01-30 04:35:59,gas_transport,49.3,AZ,Phoenix,F,Counselling psychologist,fraud_Emard Inc,0
+2019-10-20 15:04:26,health_fitness,16.71,TX,San Antonio,M,Land,fraud_Shields-Wunsch,0
+2020-06-01 18:14:21,entertainment,165.19,PA,Mc Veytown,M,Nutritional therapist,fraud_Bauch-Blanda,0
+2019-12-03 17:11:51,personal_care,94.26,NY,East Rochester,M,Retail buyer,fraud_Kirlin and Sons,0
+2019-04-09 20:45:37,health_fitness,75.43,GA,Irwinton,M,Film/video editor,"fraud_Swaniawski, Nitzsche and Welch",0
+2019-05-20 16:21:56,personal_care,23.95,TX,Sherman,F,Systems developer,fraud_Bins-Howell,0
+2019-12-23 06:16:12,grocery_net,10.91,CA,Hawthorne,M,"Editor, magazine features",fraud_Rowe-Vandervort,0
+2019-05-19 19:47:29,shopping_net,7.64,VT,Hinesburg,F,Claims inspector/assessor,"fraud_Reichert, Rowe and Mraz",0
+2020-03-17 12:32:36,home,150.45,OK,Tulsa,F,"Teacher, special educational needs",fraud_Jakubowski Inc,0
+2020-04-07 15:40:28,shopping_net,9.03,OK,Coyle,F,Amenity horticulturist,fraud_Mohr-Bayer,0
+2020-06-01 17:13:16,kids_pets,11.82,MI,Arcadia,M,"Designer, jewellery","fraud_Lang, Towne and Schuppe",0
+2019-07-25 19:33:51,entertainment,23.95,WA,Colton,F,Chief Marketing Officer,fraud_Larson-Moen,0
+2020-01-18 13:02:38,kids_pets,58.51,MS,University,F,Curator,"fraud_Hauck, Dietrich and Funk",0
+2019-11-23 04:17:53,grocery_pos,42.32,CA,Norwalk,M,Firefighter,fraud_Kiehn Inc,0
+2019-04-17 13:21:32,shopping_net,679.52,KS,Wichita,M,Heritage manager,fraud_Fisher-Schowalter,0
+2019-02-03 15:01:53,misc_pos,8.28,KY,Smiths Grove,F,"Therapist, sports",fraud_McGlynn-Jaskolski,0
+2019-05-26 09:09:31,shopping_net,2.79,WV,Tallmansville,M,Accounting technician,fraud_Fisher-Schowalter,0
+2019-06-28 12:51:22,shopping_net,38.27,AZ,Superior,F,Petroleum engineer,fraud_Volkman-Predovic,0
+2019-12-18 08:34:04,grocery_net,46.37,WA,Issaquah,F,Osteopath,fraud_Rowe-Vandervort,0
+2019-12-06 22:48:20,home,75.85,KY,Big Creek,M,"Psychologist, forensic","fraud_Cole, Hills and Jewess",0
+2019-12-15 07:09:33,grocery_pos,108.62,OK,Coyle,F,Amenity horticulturist,fraud_Barton Inc,0
+2020-06-21 11:51:22,grocery_pos,84.81,MT,Alder,M,Chief of Staff,fraud_Auer-Mosciski,0
+2020-02-16 21:31:14,home,53.64,FL,Melbourne,M,Database administrator,fraud_Gaylord-Powlowski,0
+2019-09-21 15:00:32,misc_pos,167.61,WA,Tekoa,M,Clothing/textile technologist,fraud_Buckridge PLC,0
+2019-12-02 06:32:09,gas_transport,60.3,WI,Waupaca,F,"Engineer, civil (contracting)",fraud_Heller-Langosh,0
+2019-06-11 12:40:48,shopping_net,2.88,NC,Grimesland,F,Manufacturing systems engineer,fraud_Bashirian Group,0
+2019-09-01 15:54:48,travel,6.67,AL,Gadsden,F,Physiological scientist,"fraud_Eichmann, Hayes and Treutel",0
+2019-05-27 03:31:08,grocery_pos,213.81,FL,Loxahatchee,F,Paramedic,"fraud_Huel, Hammes and Witting",0
+2019-02-07 13:42:26,shopping_pos,8.88,AR,Bauxite,F,"Scientist, audiological","fraud_Watsica, Haag and Considine",0
+2020-06-06 09:44:02,shopping_net,8.72,GA,Girard,F,"Conservator, museum/gallery",fraud_Kassulke PLC,0
+2019-01-14 13:39:30,health_fitness,420.65,MI,Elberta,F,"Exhibitions officer, museum/gallery",fraud_Ratke and Sons,0
+2019-03-10 01:56:52,grocery_pos,177.32,WI,Greendale,F,Logistics and distribution manager,fraud_DuBuque LLC,0
+2019-10-29 08:27:56,grocery_pos,169.65,MS,Sontag,M,"Librarian, academic","fraud_Moen, Reinger and Murphy",0
+2019-03-15 20:49:46,health_fitness,40.62,IL,Logan,F,"Scientist, research (physical sciences)","fraud_Runte, Green and Emard",0
+2019-01-30 14:02:13,personal_care,6.36,NY,Altona,F,"Surveyor, land/geomatics","fraud_Kihn, Brakus and Goyette",0
+2019-12-20 21:24:21,kids_pets,54.93,NJ,West Long Branch,M,Mechanical engineer,fraud_Beer-Jast,0
+2020-06-02 12:47:07,home,48.66,NY,West Sayville,F,Film/video editor,fraud_Connelly-Carter,0
+2019-09-26 12:41:10,entertainment,5.21,MN,Emmons,M,Communications engineer,fraud_Douglas-White,0
+2019-12-31 14:40:49,shopping_pos,1.24,NY,Breesport,F,Psychotherapist,fraud_Stoltenberg-Beatty,0
+2020-06-15 23:19:15,shopping_pos,2.21,NJ,Plainfield,F,Leisure centre manager,fraud_Barrows PLC,0
+2019-01-27 06:27:40,gas_transport,39.67,SC,New Ellenton,F,Biomedical scientist,fraud_Huels-Nolan,0
+2019-09-16 19:51:58,misc_pos,7.22,SC,Bradley,F,Research scientist (physical sciences),fraud_Keeling-Crist,0
+2019-06-22 23:23:06,travel,3.2,IA,Des Moines,F,Wellsite geologist,fraud_Boyer-Haley,0
+2019-11-01 02:35:11,grocery_pos,204.4,NC,North Wilkesboro,F,Dispensing optician,fraud_Hudson-Ratke,0
+2019-03-05 12:42:39,shopping_pos,86.69,TX,Roma,F,IT trainer,fraud_Hickle Group,0
+2019-03-18 17:29:35,personal_care,29.16,FL,Lakeland,M,"Radiographer, therapeutic","fraud_Zemlak, Tillman and Cremin",0
+2019-09-16 16:50:15,home,21.23,MO,Independence,F,"Engineer, production",fraud_Wuckert-Goldner,0
+2019-08-16 19:47:31,personal_care,34.42,NE,Hooper,F,"Engineer, automotive",fraud_Gottlieb-Hansen,0
+2019-08-08 19:05:59,personal_care,6.27,PA,Allentown,F,"Scientist, research (maths)",fraud_Nader-Maggio,0
+2019-08-10 19:33:52,shopping_pos,1.85,MA,Lawrence,M,Geoscientist,"fraud_Nitzsche, Kessler and Wolff",0
+2019-08-31 12:13:25,shopping_net,1.85,NY,Hannawa Falls,F,Chief Executive Officer,fraud_Kuhic LLC,0
+2020-06-11 21:05:10,shopping_pos,1.72,MO,Redford,F,Investment analyst,fraud_Pouros-Conroy,0
+2020-03-07 05:30:14,misc_net,68.09,FL,West Palm Beach,F,Historic buildings inspector/conservation officer,"fraud_Herman, Treutel and Dickens",0
+2019-10-23 17:26:37,entertainment,49.96,TN,Murfreesboro,M,"Journalist, newspaper",fraud_Kilback and Sons,0
+2019-03-29 12:13:43,entertainment,11.37,TX,Cleveland,F,Building surveyor,"fraud_Cormier, Stracke and Thiel",0
+2019-04-29 04:44:19,shopping_net,305.86,NV,Ruth,M,Interpreter,fraud_Rempel Inc,0
+2020-05-25 20:34:45,shopping_pos,168.25,MN,Ranier,F,Ceramics designer,fraud_Kris-Padberg,0
+2019-06-15 19:04:28,home,7.78,NM,High Rolls Mountain Park,M,Naval architect,"fraud_Gutmann, McLaughlin and Wiza",0
+2019-04-26 04:43:43,grocery_pos,105.82,NJ,Elizabeth,M,Operational researcher,fraud_Hackett-Lueilwitz,0
