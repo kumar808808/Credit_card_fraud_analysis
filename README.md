@@ -97,7 +97,7 @@ Transaction Time
 Fraud Status
 Dashboard Preview
 
-![Fraud Dashboard](images/dashboard_preview.png)
+![Fraud Dashboard](Credit_card_fraud_analysis/image/dashboard_preview.png)
 
 Skills Demonstrated
 Data Cleaning using Pandas
@@ -111,7 +111,7 @@ Project Structure
 credit-card-fraud-analysis
 │
 ├── data
-│   └── credit_card_transactions_sample.csv
+│   └── sample_dataset.csv
 │
 ├── sql
 │   └── fraud_analysis_queries.sql
